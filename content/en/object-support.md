@@ -45,7 +45,7 @@ Resources within an Object or different Objects within the LwM2M Client.
 For example, the LwM2M Server wants to get the report of the Radio Signal Strength (/4/0/2) and Battery Level (/3/0/9)
 resources when the Radio Signal Strength is less than -120dBm or the Battery Level is less than 50%.
 
-Image Figure 1
+![image](https://user-images.githubusercontent.com/3258579/122974508-404f2700-d347-11eb-95d9-53c0a89db59f.png)
 
 Step 1: The LwM2M Server sends the Write-Composite request to LwM2M Client to observe multiple resources which are
 included in the Resource ObserveLinks (/22/0/0). The payload in the request is an array of application/link-format CoRE
@@ -76,8 +76,7 @@ The LwM2M Server initiates a Write request for changes of the Object Instant (/2
 
 For example, the DM server (LwM2M Server) needs changed Resources of the Device Object (/3/0) and Connectivity Monitoring Object (/4/0) of the water meter (LwM2M Client) via NB-IoT to monitor the device.
 
-
-Figure 2 - Example flow for Observing Multiple Resources and Notifying Changed Resources
+![image](https://user-images.githubusercontent.com/3258579/122974585-5a890500-d347-11eb-9ebd-f5bb1d39b45f.png)
 
 Step 1: The LwM2M Server sends the Write-Composite request to LwM2M Client to observe multiple resources which are included in the Resource ObserveLinks (/22/0/0). The request payload includes the Resource ObserveLinks (/22/0/0) and
 Resource ResourceFilter (/22/0/2). In this example, the value of the Resource ObserveLinks are Device Object Instance 0 and Connectivity Monitoring Object Instance 0; the value of the Resource ResourceFilter is 1.
@@ -103,7 +102,8 @@ The LwM2M Server initiates a Write request for changes of the Object Instant (/2
 
 For example, the shared bike operator need protect the shared bike security. The LwM2M Server needs location (/6/0/1 and /6/0/2) of Device Object (/6/0) when the state of the lock is switched-off and the speed of the client is more than 1. The notification may trigger the LwM2M Server to trace the client and or do other processing.
 
-Figure 3 - Example flow for Observing Multiple Resources and Notifying Different Resources
+![image](https://user-images.githubusercontent.com/3258579/122974759-8a380d00-d347-11eb-83a1-444e4497ffbf.png)
+
 
 Step 1: The LwM2M Server sends the Write-Composite request to LwM2M Client to observe multiple resources which are included in the Resource ObserveLinks (/22/0/0). The request payload includes the Resource ObserveLinks (/22/0/0), ReportLinks (/22/0/3) and ObserveRelation (/22/0/4). In this example, the value of the Resource ObserveLinks are the Resource Speed (/6/0/6) of Location Object (/6/0) with the “gt” attribute, and the Digital Input State resource (/3342/0/5500) of On/Off switch Object (/3342/0) with the “lt” attribute. The value of the Resource ReportLinks are the Resource Latitude (/6/0/0) and the Resource Longitude (/6/0/1. The value of ObserveRelation is 1.
 
@@ -126,7 +126,7 @@ The LwM2M Server initiates a Write request for changes of the Object Instant (/2
 
 For example, the LwM2M Server want to check the NB-IoT network coverage, and ask the LwM2M Client to report Radio Signal Strength when Network Bearer is NB-IoT and Radio Signal Strength is less than one threshold.
 
-Figure 4 - Example flow for Observing Multiple Resources and Notifying Partial Resources
+![image](https://user-images.githubusercontent.com/3258579/122974909-aa67cc00-d347-11eb-9d3f-a60e2899bc95.png)
 
 Step 1: The LwM2M Server sends the Write-Composite request to LwM2M Client to observe multiple resources which are included in the Resource ObserveLinks (/22/0/0). The request payload includes the Resource ObserveLinks (/22/0/0), ReportLinks (/22/0/3) and ObserveRelation (/22/0/4). In this example, the value of the Resource ObserveLinks are the Resource Network Bearer (/4/0/0) of Connectivity Monitoring (/4/0) with the “gt” and “lt” attribute, and the Resource Radio Signal Strength (/4/0/2) of Connectivity Monitoring (/4/0) with the “lt” attribute . The value of the Resource ReportLinks are the Resource Radio Signal Strength (/4/0/2). The value of ObserveRelation is 1.
 
