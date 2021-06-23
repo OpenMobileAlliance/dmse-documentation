@@ -7,13 +7,30 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "npm run build && gh-pages -d dist --repo https://github.com/OpenMobileAlliance/dmse-documentation.git"
+    "deploy": "npm run build && gh-pages -d dist -t true --repo https://github.com/OpenMobileAlliance/dmse-documentation.git"
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.7.1",
+    "@nuxtjs/axios": "^5.13.5",
     "nuxt": "^2.15.2"
   },
   "devDependencies": {
-    "push-dir": "^0.4.1"
+    "@nuxtjs/cssnano": "^1.0.1",
+    "@nuxtjs/optimize": "^1.1.1",
+    "@nuxtjs/pwa": "^0.2.1",
+    "babel-eslint": "^8.0.1",
+    "buefy": "^0.5.2",
+    "bulmaswatch": "^0.5.0",
+    "eslint": "^4.7.2",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-html": "^3.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "gh-pages": "^3.2.0",
+    "highlight.js": "^9.12.0",
+    "node-sass": "^4.5.3",
+    "push-dir": "^0.4.1",
+    "sass-loader": "^6.0.6"
   }
 }
