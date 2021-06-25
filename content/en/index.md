@@ -7,8 +7,11 @@ features:
   - Feature 1
   - Feature 2
   - Feature 3
+footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 ### V1.2 Functionality
+<YoutubeSubscribeButton identifier="my-subscribe-button" channel="GoogleDevelopers"></YoutubeSubscribeButton>
+
 
 Version 1.2 of the LwM2M protocol introduced the following new features:
 
@@ -120,9 +123,6 @@ Lightweight M2M 1.0 enabler introduces the following features below for the init
 * Basic M2M functionalities: LwM2M Server, Access Control, Device, Connectivity, Firmware Update, Location, Connectivity Statistics
 
 
-
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
 [Module]() for [NuxtJS](https://nuxtjs.org).
 

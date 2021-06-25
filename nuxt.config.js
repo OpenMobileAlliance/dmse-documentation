@@ -1,6 +1,13 @@
 import theme from '@nuxt/content-theme-docs'
 
 export default theme({
+  modules: [
+    'nuxt-linkedin-pixel-module',
+    ['nuxt-youtube-subscribe-module', {
+      tag: 'YoutubeSubscribeButton'
+    }]
+  ],
+  target: 'static',
   docs: {
     primaryColor: '#E24F55'
   },
@@ -13,16 +20,21 @@ export default theme({
       ]
     }
   },
+  
+  linkedin: {
+    partnerId: '3701497',
+    disabled: false
+  },
+  'youtube-subscribe': {
+    tag: 'YoutubeSubscribeButton'
+  },
+  
   generate: {
     fallback: true
   },
   head: {
     title: "my first nuxt proj - main page",
-    meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' }
-    ],
-    link: [{ rel: 'icon', type: 'image/png', href: './oma-logo.png' }],
+    link: [{ rel: 'icon', type: 'image/png', href: '../oma-logo.png' }],
   }
 
 })
