@@ -5,7 +5,7 @@
     "light": "./oma2.png",
     "dark": "./oma2.png"
   },
-  "github": "openmobilealliance/Documentation",
+  "github": "OpenMobileAlliance",
   "twitter": "OMASpecWorks",
   "algolia": {
     "apiKey": "3677e049d48c83792ba0d2cb0715a12f",

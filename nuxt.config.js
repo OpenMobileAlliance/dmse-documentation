@@ -36,7 +36,7 @@ export default theme({
   },
   head: {
     title: "my first nuxt proj - main page",
-    link: [{ rel: 'icon', type: 'image/png', href: '../oma-logo.png' }],
+    link: [{ rel: 'icon', type: 'image/png', href: './oma-logo.png' }],
   }
 
 })
