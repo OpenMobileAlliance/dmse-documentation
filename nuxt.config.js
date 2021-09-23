@@ -2,7 +2,6 @@ import theme from '@nuxt/content-theme-docs'
 
 export default theme({
   modules: [
-    'nuxt-linkedin-pixel-module',
     ['nuxt-youtube-subscribe-module', {
       tag: 'YoutubeSubscribeButton'
     }]
@@ -11,7 +10,10 @@ export default theme({
   docs: {
     primaryColor: '#E24F55'
   },
-  router: { base: '/dmse-documentation/' },
+
+  router: { 
+    base: '/dmse-documentation/' 
+  },
   build: {
     publicPath: '/_nuxt/',
     babel:{
@@ -34,7 +36,7 @@ export default theme({
   },
   head: {
     title: "my first nuxt proj - main page",
-    link: [{ rel: 'icon', type: 'image/png', href: '../oma-logo.png' }],
+    link: [{ rel: 'icon', type: 'image/png', href: './oma-logo.png' }],
   }
 
 })

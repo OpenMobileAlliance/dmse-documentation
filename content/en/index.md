@@ -8,6 +8,7 @@ features:
   - Feature 2
   - Feature 3
 footer: MIT Licensed | Copyright © 2018-present Evan You
+
 ---
 ### V1.2 Functionality
 <YoutubeSubscribeButton identifier="my-subscribe-button" channel="GoogleDevelopers"></YoutubeSubscribeButton>
