@@ -10,13 +10,13 @@
     "deploy": "npm run build && gh-pages -d dist -t true --repo https://github.com/OpenMobileAlliance/dmse-documentation.git"
   },
   "dependencies": {
+    "@docsearch/css": "^1.0.0-alpha.28",
+    "@docsearch/js": "^1.0.0-alpha.28",
     "@nuxt/content-theme-docs": "^0.7.1",
     "@nuxtjs/axios": "^5.13.5",
     "algoliasearch": "^4.10.2",
     "nuxt": "^2.15.2",
-    "nuxt-youtube-subscribe-module": "^0.1.1",
-    "@docsearch/css": "^1.0.0-alpha.28",
-    "@docsearch/js": "^1.0.0-alpha.28"
+    "nuxt-youtube-subscribe-module": "^0.1.1"
   },
   "devDependencies": {
     "@nuxtjs/cssnano": "^1.0.1",
