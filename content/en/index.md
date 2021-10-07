@@ -11,8 +11,6 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 
 ---
 ### V1.2 Functionality
-<YoutubeSubscribeButton identifier="my-subscribe-button" channel="GoogleDevelopers"></YoutubeSubscribeButton>
-
 
 Version 1.2 of the LwM2M protocol introduced the following new features:
 
