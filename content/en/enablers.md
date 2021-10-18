@@ -20,6 +20,9 @@ Version 1.0 of the specification covers:
 ## LwM2M Event Log
 
 
+## LwM2M Lock & Wipe
+* Link to Technical Documents - [LOCKWIPE](http://www.openmobilealliance.org/release/LWM2M_LOCKWIPE/)
+
 ## LwM2M Portfolio Object
 
 
