@@ -22,6 +22,8 @@ Version 1.0 of the specification covers:
 ## LwM2M Event Log
 * See published Technical Documents for [LwM2M_EventLog](http://www.openmobilealliance.org/release/LwM2M_EventLog/)
 
+## LwM2M Gateway
+* See published Technical Documents for [LwM2M_Gateway](http://www.openmobilealliance.org/release/LwM2M_Gateway/)
 ## LwM2M Lock & Wipe
 * See Released Technical Documents for [LwM2M_LOCKWIPE](http://www.openmobilealliance.org/release/LWM2M_LOCKWIPE/)
 
