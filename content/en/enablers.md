@@ -48,19 +48,7 @@ are now published in the OMNA LwM2M-Registry in [HTML](https://technical.openmob
 
 ## LwM2M Device Capabilities Management
 
-List of **Approved** version of Device Capabilities Management Objects:
-
-Version / Date             | Status
----------------------------|-----------------------------
-[V1_0_4-20201208-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_4-20201208-A/)  |  Approved
-[V1_0_3-20200616-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_3-20200616-A/)  |  Approved
-[V1_0_2-20170308-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_2-20170308-A/)  |  Approved
-[V1_0_1-20151123-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_1-20151123-A/)  |  Approved
-[V1_0-20150512-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0-20150512-A/)    |  Approved
-
-> Click [here](http://www.openmobilealliance.org/release/LwM2M_DevCapMgmt/) to see all the publications
-
-### Listing of the latest Approved Documents in LWM2M_DevCapMgmt
+### List of the latest Approved Documents in LWM2M_DevCapMgmt
 <table>
     <thead>
         <tr>
@@ -90,6 +78,18 @@ Version / Date             | Status
         </tr>
     </tbody>
 </table>
+
+List of **Approved** versions of Device Capabilities Management Objects:
+
+Version / Date             | Status
+---------------------------|-----------------------------
+[V1_0_4-20201208-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_4-20201208-A/)  |  Approved
+[V1_0_3-20200616-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_3-20200616-A/)  |  Approved
+[V1_0_2-20170308-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_2-20170308-A/)  |  Approved
+[V1_0_1-20151123-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_1-20151123-A/)  |  Approved
+[V1_0-20150512-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0-20150512-A/)    |  Approved
+
+> Click [here](http://www.openmobilealliance.org/release/LwM2M_DevCapMgmt/) to see all the publications `Candidate/Approved`
 
 ## LwM2M Event Log
 * See published Technical Documents for [LwM2M_EventLog](http://www.openmobilealliance.org/release/LwM2M_EventLog/)
