@@ -36,7 +36,6 @@ Version / Date     |  Status
 [V1_0-20170314-A](http://www.openmobilealliance.org/release/LwM2M_CONNMGMT/V1_0-20170314-A/) | Approved
 
 
-<alert>
 The latest versions the Connectivity Management Objects: 
 <li>
     <ul>[LWM2M_WLAN_Connectivity] or [12]</ul>
@@ -44,12 +43,12 @@ The latest versions the Connectivity Management Objects:
     <ul>[LWM2M_Bearer_Selection] or [13]</ul>
     <ul>[LWM2M_APN_Connection_Profile] or [11] </ul>
 </li>
+
 are now published in the OMNA LwM2M-Registry in [HTML](https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html) or [GiHub](https://github.com/OpenMobileAlliance/lwm2m-registry)
-</alert>
 
 ## LwM2M Device Capabilities Management
 
-* See the list of published [LwM2M_DevCapMgmt](http://www.openmobilealliance.org/release/LwM2M_DevCapMgmt/)
+List of **Approved** version of Device Capabilities Management Objects:
 
 Version / Date             | Status
 ---------------------------|-----------------------------
@@ -59,9 +58,10 @@ Version / Date             | Status
 [V1_0_1-20151123-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_1-20151123-A/)  |  Approved
 [V1_0-20150512-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0-20150512-A/)    |  Approved
 
+> Click [here](http://www.openmobilealliance.org/release/LwM2M_DevCapMgmt/) to see all the publications
 
+### Listing of the latest Approved Documents in LWM2M_DevCapMgmt
 <table>
-    <caption>Listing of Documents in LWM2M_DevCapMgmt</caption>
     <thead>
         <tr>
             <th>Doc Ref</th>
@@ -84,9 +84,9 @@ Version / Date             | Status
             <td>[LWM2M_DevCapMgmt_XML]</td>
             <td><a href="http://www.openmobilealliance.org/release/LwM2M_DevCapMgmt/V1_0_4-20201208-A/OMA-SUP-XML_15-V2_0-20201208-A.xml" target="_blank">OMA-SUP-XML_15-V2_0-20201208-A</a></td>
             <td>XML document for LightweightM2M Device Capability Management Object<br>
-OMNA LwM2M Registry:<br>
-File: 15.xml<br>
-Path: https://github.com/OpenMobileAlliance/lwm2m-registry</td>
+            OMNA LwM2M Registry:<br>
+            File: <a href="https://github.com/OpenMobileAlliance/lwm2m-registry" target="_blank">15.xml</a><br>
+            Path: https://github.com/OpenMobileAlliance/lwm2m-registry</td>
         </tr>
     </tbody>
 </table>
