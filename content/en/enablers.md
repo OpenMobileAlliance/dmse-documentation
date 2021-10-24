@@ -32,17 +32,33 @@ Please note that this object should ONLY be used in those circumstances where th
 
 Version / Date     |  Status
 -------------------| ------------------------
-[V1_0-20170314-A](http://www.openmobilealliance.org/release/LwM2M_CONNMGMT/V1_0-20170314-H/) | Approved
 [V1_0-20170314-H](http://www.openmobilealliance.org/release/LwM2M_CONNMGMT/V1_0-20170314-H/) | Deprecated 
+[V1_0-20170314-A](http://www.openmobilealliance.org/release/LwM2M_CONNMGMT/V1_0-20170314-A/) | Approved
+
 
 <alert>
-The latest versions the Connectivity Management Objects: [LWM2M_WLAN_Connectivity] or [12],[LWM2M_Cellular_Connectivity] or [10] [LWM2M_Bearer_Selection] or [13][LWM2M_APN_Connection_Profile] or [11] are now published in the OMNA LwM2M-Registry in [HTML](https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html) or [GiHub](https://github.com/OpenMobileAlliance/lwm2m-registry)
+The latest versions the Connectivity Management Objects: 
+<li>
+    <ul>[LWM2M_WLAN_Connectivity] or [12]</ul>
+    <ul>[LWM2M_Cellular_Connectivity] or [10]</ul>
+    <ul>[LWM2M_Bearer_Selection] or [13]</ul>
+    <ul>[LWM2M_APN_Connection_Profile] or [11] </ul>
+</li>
+are now published in the OMNA LwM2M-Registry in [HTML](https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html) or [GiHub](https://github.com/OpenMobileAlliance/lwm2m-registry)
 </alert>
-
 
 ## LwM2M Device Capabilities Management
 
-* See published Technical Documents for [LwM2M_DevCapMgmt](http://www.openmobilealliance.org/release/LwM2M_DevCapMgmt/)
+* See the list of published [LwM2M_DevCapMgmt](http://www.openmobilealliance.org/release/LwM2M_DevCapMgmt/)
+
+Version / Date             | Status
+---------------------------|-----------------------------
+[V1_0_4-20201208-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_4-20201208-A/)  |  Approved
+[V1_0_3-20200616-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_3-20200616-A/)  |  Approved
+[V1_0_2-20170308-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_2-20170308-A/)  |  Approved
+[V1_0_1-20151123-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_1-20151123-A/)  |  Approved
+[V1_0-20150512-A](http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0-20150512-A/)    |  Approved
+
 
 <table>
     <caption>Listing of Documents in LWM2M_DevCapMgmt</caption>
