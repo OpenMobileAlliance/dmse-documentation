@@ -56,7 +56,7 @@ Version 1.2 of the LwM2M protocol introduced the following new features:
         </tr>
         <tr>
             <td>[LightweightM2M_TS_Transport]</td>
-            <td><a herf="https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf" target="_blank">OMA-TS-LightweightM2M_Transport-V1_2-20201110-A</a></td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf" target="_blank">OMA-TS-LightweightM2M_Transport-V1_2-20201110-A</a></td>
             <td>Transport Technical Specification for LightweightM2M Enabler</td>
         </tr>
         <tr>
@@ -118,12 +118,12 @@ Version 1.1.1 of the LwM2M protocol introduced the following new feature:
         </tr>
         <tr>
             <td>[LightweightM2M_TS_Transport]</td>
-            <td><a herf="https://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Transport-V1_1_1-20190617-A.pdf" target="_blank">OMA-TS-LightweightM2M-Transport-v1_1_1-20190617-A</a></td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Transport-V1_1_1-20190617-A.pdf" target="_blank">OMA-TS-LightweightM2M-Transport-v1_1_1-20190617-A</a></td>
             <td>Transport Technical Specification for LightweightM2M Enabler</td>
         </tr>
         <tr>
             <td>[lwm2m-schema]</td>
-            <td><a href="" target="_blank">OMA-SUP-XML_LWM2M-V1_1-20180710-A</a></td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd" target="_blank">OMA-SUP-XML_LWM2M-V1_1-20180710-A</a></td>
             <td>LwM2M schema for LwM2M v1.1, file name: LWM2M-v1_1.xsd, path: http://www.openmobilealliance.org/tech/profiles</td>
         </tr>
     </tbody>
@@ -149,6 +149,7 @@ For LwM2M v1.1:
     * JSON type: String
     * XML type: string
     * Reference: LwM2M TS v1.1
+
 
 ### V1.1 Functionality
 
@@ -196,12 +197,12 @@ Version 1.1 of the LwM2M protocol introduced the following new features:
         </tr>
         <tr>
             <td>[LightweightM2M_TS_Transport]</td>
-            <td><a herf="https://www.openmobilealliance.org/release/LightweightM2M/V1_1-20180710-A/OMA-TS-LightweightM2M_Transport-V1_1-20180710-A.pdf" target="_blank">OMA-TS-LightweightM2M-Transport-v1_1-20180710-A</a></td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_1-20180710-A/OMA-TS-LightweightM2M_Transport-V1_1-20180710-A.pdf" target="_blank">OMA-TS-LightweightM2M-Transport-v1_1-20180710-A</a></td>
             <td>Transport Technical Specification for LightweightM2M Enabler</td>
         </tr>
         <tr>
             <td>[lwm2m-schema]</td>
-            <td><a href="" target="_blank">OMA-SUP-XML_LWM2M-V1_1-20180710-A</a></td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd" target="_blank">OMA-SUP-XML_LWM2M-V1_1-20180710-A</a></td>
             <td>LwM2M schema for LwM2M v1.1, file name: LWM2M-v1_1.xsd, path: http://www.openmobilealliance.org/tech/profiles</td>
         </tr>
     </tbody>
@@ -227,11 +228,11 @@ IANA has registered the following media types for use with LwM2M:
 
 OMA is requesting IANA to register a new SenML Label for LwM2M object links in the "Sensor Measurement Lists (SenML) Parameters" registry, "SenML Labels" sub-registry:
 
-    * Name: Object Link Value
-    * Label: vlo
-    * JSON type: String
-    * XML type: string
-    * Reference: LwM2M TS v1.1
+   * Name: Object Link Value
+   * Label: vlo
+   * JSON type: String
+   * XML type: string
+   * Reference: LwM2M TS v1.1
 
 ### V1.0 Functionality
 Lightweight M2M 1.0 enabler introduces the following features below for the initial release.
