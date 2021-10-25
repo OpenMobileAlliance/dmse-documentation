@@ -69,6 +69,25 @@ Version 1.2 of the LwM2M protocol introduced the following new features:
 
 > Note: download the v1.2 Enabler Release Package `.zip` by clicking [here](https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-ERP-LightweightM2M-V1_2-20201110-A.zip)
 
+#### OMNA Considerations
+For LwM2M v1.2:
+New LwM2M Objects are listed in Appendix E of [LightweightM2M_TS_Core](https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf)
+
+##### OMNA LwM2M-Registry
+* Lwm2m Registry in:
+    * [GitHub](https://github.com/OpenMobileAlliance/lwm2m-registry)
+    * [Registry Page](https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html)
+
+#### IANA Considerations
+For LwM2M v1.2: 
+OMA is requesting IANA to register a new media type for LwM2M CBOR in the "Media Types" registry and in the "CoAP Content-Formats" registry.:
+
+* Type name: application
+* Subtype name: vnd.oma.lwm2m+cbor
+* Required parameters: none
+* Optional parameters: none
+* Encoding considerations: binary
+
 ### V1.1.1 Functionality
 
 Version 1.1.1 of the LwM2M protocol introduced the following new feature:  
