@@ -48,6 +48,18 @@ are now published in the OMNA LwM2M-Registry in [HTML](https://technical.openmob
 
 ## LwM2M Device Capabilities Management
 
+### Release Version Overview
+The present Reference Release enables remote device capability management in M2M devices.
+
+#### Version 1.0.4 Functionality
+V1.0.X of the specification covers:
+
+1. Device Capability Enablement
+2. Device Capability Disablement
+3. Device attachment of removable hardware
+4. Device detachment of removable hardware
+5. Conditional notification when Device Capability State is modified
+
 ### List of the latest Approved Documents in LWM2M_DevCapMgmt
 <table>
     <thead>
