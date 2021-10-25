@@ -46,26 +46,28 @@ Version 1.2 of the LwM2M protocol introduced the following new features:
     <tbody>
         <tr>
             <td>[LightweightM2M_RD]</td>
-            <td>OMA-RD-LightweightM2M-V1_2-20201110-A</td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-RD-LightweightM2M-V1_2-20201110-A.pdf" target="_blank">OMA-RD-LightweightM2M-V1_2-20201110-A</a></td>
             <td>Requirements Document for LightweightM2M Enabler</td>
         </tr>
         <tr>
             <td>[LightweightM2M_TS_Core]</td>
-            <td>OMA-TS-LightweightM2M_Core-V1_2-20201110-A</td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf" target="_blank">OMA-TS-LightweightM2M_Core-V1_2-20201110-A</a></td>
             <td>Core Technical Specification for LightweightM2M Enabler</td>
         </tr>
         <tr>
             <td>[LightweightM2M_TS_Transport]</td>
-            <td>OMA-TS-LightweightM2M_Transport-V1_2-20201110-A</td>
+            <td><a herf="https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf" target="_blank">OMA-TS-LightweightM2M_Transport-V1_2-20201110-A</a></td>
             <td>Transport Technical Specification for LightweightM2M Enabler</td>
         </tr>
         <tr>
             <td>[lwm2m-schema]</td>
-            <td>OMA-SUP-XML_LWM2M-V1_1-20180710-A</td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd" target="_blank">OMA-SUP-XML_LWM2M-V1_1-20180710-A</a></td>
             <td>LwM2M schema for LwM2M v1.1, file name: LWM2M-v1_1.xsd, path: http://www.openmobilealliance.org/tech/profiles</td>
         </tr>
     </tbody>
 </table>
+
+> Note: download the v1.2 Enabler Release Package `.zip` by clicking [here](https://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-ERP-LightweightM2M-V1_2-20201110-A.zip)
 
 ### V1.1.1 Functionality
 
