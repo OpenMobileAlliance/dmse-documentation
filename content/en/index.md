@@ -32,7 +32,7 @@ Version 1.2 of the LwM2M protocol introduced the following new features:
 
 * Untangling the relationship of security credentials and their server configuration.
 
-### V1.2 Documents
+#### V1.2 Documents
 
 <table>
     <caption>Document Listing for LightweightM2M v1.2</caption>
@@ -94,6 +94,62 @@ Version 1.1.1 of the LwM2M protocol introduced the following new feature:
 
 * Support for Concise Binary Object Representation (CBOR) format for use with "Read" and "Write" operations on single resources
 
+#### V1.1.1 Documents
+
+<table>
+    <caption>Document Listing for LightweightM2M v1.1.1</caption>
+    <thead>
+        <tr>
+            <th>Doc Ref</th>
+            <th>Permanent Document Reference</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>[LightweightM2M_RD]</td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-RD-LightweightM2M-V1_1-20180710-A.pdf" target="_blank">OMA-RD-LightweightM2M-v1_1-20180710-A</a></td>
+            <td>Requirements Document for LightweightM2M Enabler</td>
+        </tr>
+        <tr>
+            <td>[LightweightM2M_TS_Core]</td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Core-V1_1_1-20190617-A.pdf" target="_blank">OMA-TS-LightweightM2M-Core-v1_1_1-20190617-A</a></td>
+            <td>Core Technical Specification for LightweightM2M Enabler</td>
+        </tr>
+        <tr>
+            <td>[LightweightM2M_TS_Transport]</td>
+            <td><a herf="https://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Transport-V1_1_1-20190617-A.pdf" target="_blank">OMA-TS-LightweightM2M-Transport-v1_1_1-20190617-A</a></td>
+            <td>Transport Technical Specification for LightweightM2M Enabler</td>
+        </tr>
+        <tr>
+            <td>[lwm2m-schema]</td>
+            <td><a href="" target="_blank">OMA-SUP-XML_LWM2M-V1_1-20180710-A</a></td>
+            <td>LwM2M schema for LwM2M v1.1, file name: LWM2M-v1_1.xsd, path: http://www.openmobilealliance.org/tech/profiles</td>
+        </tr>
+    </tbody>
+</table>
+
+> Note: download the v1.1.1 Enabler Release Package `.zip` by clicking [here](https://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-ERP-LightweightM2M-V1_1_1-20190617-A.zip)
+
+#### OMNA Considerations
+For LwM2M v1.1:
+* LWM2M-v1_1.xsd new LightweightM2M schema for v1.1 protocol.
+
+##### OMNA LwM2M-Registry
+* Lwm2m Registry in:
+    * [GitHub](https://github.com/OpenMobileAlliance/lwm2m-registry)
+    * [Registry Page](https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html)
+
+#### IANA Considerations
+For LwM2M v1.1: 
+* OMA is requesting IANA to register a new SenML Label for LwM2M object links in the "Sensor Measurement Lists (SenML) Parameters" registry, "SenML Labels" sub-registry:
+
+    * Name: Object Link Value
+    * Label: vlo
+    * JSON type: String
+    * XML type: string
+    * Reference: LwM2M TS v1.1
+
 ### V1.1 Functionality
 
 Version 1.1 of the LwM2M protocol introduced the following new features:  
@@ -115,6 +171,68 @@ Version 1.1 of the LwM2M protocol introduced the following new features:
 * Support for JSON using SenML with CBOR serialization for compressed payload with highly efficient transmission.
 
 * Addition of new data types.
+
+#### V1.1 Documents
+
+<table>
+    <caption>Document Listing for LightweightM2M v1.1</caption>
+    <thead>
+        <tr>
+            <th>Doc Ref</th>
+            <th>Permanent Document Reference</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>[LightweightM2M_RD]</td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_1-20180710-A/OMA-ERP-LightweightM2M-V1_1-20180710-A-PDF.zip" target="_blank">OMA-RD-LightweightM2M-v1_1-20180710-A</a></td>
+            <td>Requirements Document for LightweightM2M Enabler</td>
+        </tr>
+        <tr>
+            <td>[LightweightM2M_TS_Core]</td>
+            <td><a href="https://www.openmobilealliance.org/release/LightweightM2M/V1_1-20180710-A/OMA-TS-LightweightM2M_Core-V1_1-20180710-A.pdf" target="_blank">OMA-TS-LightweightM2M-Core-v1_1-20180710-A</a></td>
+            <td>Core Technical Specification for LightweightM2M Enabler</td>
+        </tr>
+        <tr>
+            <td>[LightweightM2M_TS_Transport]</td>
+            <td><a herf="https://www.openmobilealliance.org/release/LightweightM2M/V1_1-20180710-A/OMA-TS-LightweightM2M_Transport-V1_1-20180710-A.pdf" target="_blank">OMA-TS-LightweightM2M-Transport-v1_1-20180710-A</a></td>
+            <td>Transport Technical Specification for LightweightM2M Enabler</td>
+        </tr>
+        <tr>
+            <td>[lwm2m-schema]</td>
+            <td><a href="" target="_blank">OMA-SUP-XML_LWM2M-V1_1-20180710-A</a></td>
+            <td>LwM2M schema for LwM2M v1.1, file name: LWM2M-v1_1.xsd, path: http://www.openmobilealliance.org/tech/profiles</td>
+        </tr>
+    </tbody>
+</table>
+
+> Note: download the v1.1 Enabler Release Package `.zip` by clicking [here](https://www.openmobilealliance.org/release/LightweightM2M/V1_1-20180710-A/OMA-ERP-LightweightM2M-V1_1-20180710-A-PDF.zip)
+
+#### OMNA Considerations
+For LwM2M v1.1:
+* LWM2M-v1_1.xsd new LightweightM2M schema for v1.1 protocol.
+
+##### OMNA LwM2M-Registry
+* Lwm2m Registry in:
+    * [GitHub](https://github.com/OpenMobileAlliance/lwm2m-registry)
+    * [Registry Page](https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html)
+
+#### IANA Considerations
+For LwM2M v1.1: 
+IANA has registered the following media types for use with LwM2M:
+
+* application/vnd.oma.lwm2m+json
+* application/vnd.oma.lwm2m+tlv
+
+OMA is requesting IANA to register a new SenML Label for LwM2M object links in the "Sensor Measurement Lists (SenML) Parameters" registry, "SenML Labels" sub-registry:
+
+    * Name: Object Link Value
+    * Label: vlo
+    * JSON type: String
+    * XML type: string
+    * Reference: LwM2M TS v1.1
+
 ### V1.0 Functionality
 Lightweight M2M 1.0 enabler introduces the following features below for the initial release.
 
@@ -134,5 +252,5 @@ Lightweight M2M 1.0 enabler introduces the following features below for the init
 
 * Multiple LwM2M Server support
 
-* Basic M2M functionalities: LwM2M Server, Access Control, Device, Connectivity, Firmware Update, Location, Connectivity Statistics
+* Basic M2M functionalities: LwM2M Server, Access Control, Device, Connectivity, Firmware Update, Location, Connectivity Statistics 
 
