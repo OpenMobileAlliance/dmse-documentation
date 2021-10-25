@@ -3,12 +3,6 @@ title: LwM2M Protocol
 description: ''
 position: 1
 category: 'LWM2M'
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-footer: MIT Licensed | Copyright © 2018-present Evan You
-
 ---
 ### V1.2 Functionality
 
@@ -121,20 +115,3 @@ Lightweight M2M 1.0 enabler introduces the following features below for the init
 
 * Basic M2M functionalities: LwM2M Server, Access Control, Device, Connectivity, Firmware Update, Location, Connectivity Statistics
 
-
-
-[Module]() for [NuxtJS](https://nuxtjs.org).
-
-<alert type="success">
-
-Your documentation has been created successfully!
-
-</alert>
-
-## Features
-
-<list :items="features"></list>
-
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
-
-new line
