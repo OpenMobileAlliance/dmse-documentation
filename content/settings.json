@@ -8,8 +8,8 @@
   "github": "OpenMobileAlliance",
   "twitter": "OMASpecWorks",
   "algolia": {
-    "appId": "BH4D9OD16A",
-    "apiKey": "7cae46537bbb611c92ae53c73a567064",
+    "appId": "O73D9QRUNJ",
+    "apiKey": "c7c7c01ac6f1f5460ae30d3e9041b075",
     "indexName": "lwm2m"
     }
 }
