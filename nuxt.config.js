@@ -20,10 +20,6 @@ export default theme({
   docs: {
     primaryColor: "#E24F55",
   },
-
-  router: {
-    base: "/dmse-documentation/",
-  },
   build: {
     publicPath: "/_nuxt/",
     babel: {
