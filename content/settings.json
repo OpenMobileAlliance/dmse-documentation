@@ -2,8 +2,8 @@
   "title": "DMSE Documentation",
   "url": "",
   "logo": {
-    "light": "oma2.png",
-    "dark": "oma2.png"
+    "light": "/oma2.png",
+    "dark": "/oma2.png"
   },
   "github": "OpenMobileAlliance",
   "twitter": "OMASpecWorks",
