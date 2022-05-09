@@ -31,53 +31,46 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/6295903/Mar_2021_VTF_Summary_and_Results_v1.0.pdf" target="_blank"> v1.0</a> </br> <a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/6295594/Mar_2021_VTF_Summary_and_Results.pdf" target="_blank"> v1.1</a></td>
             <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Mar-2021--Virtual-TestFest-Product-Listings" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
+        <tr>
+            <td>OMA</td>
+            <td>Virtual</td>
+            <td>Apr 2020</td>
+            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/4609228/Virtual_Apr_2020_All_Test_Results.pdf" target="_blank"> v1.1</a></td>
+            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Virtual-TestFest-Product-Listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.tta.or.kr/" target="_blank">TTA</a></td>
+            <td>South Korea</td>
+            <td>Oct 2019</td>
+            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819151/Korea_Oct_2019_v1_0_Consolidated_Test_Results.pdf" target="_blank"> v1.0</a> </br><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819172/Korea_Oct_2019_v1_1_Consolidated_Test_Results.pdf" target="_blank"> v1.1</a> </td>
+            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Korea-TestFest-Product-Listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.tta.or.kr/" target="_blank">TTA</a></td>
+            <td>South Korea</td>
+            <td>Jul 2018</td>
+            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267573/Korea_July_2018_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Seoul-TestFest-Product-Listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.avsystem.com/" target="_blank">Avsystems</a></td>
+            <td>Warsaw</td>
+            <td>Nov 2017</td>
+            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1517215/Warsaw_Nov_2017_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Warsaw-TestFest-Product-Listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
     </body>
 </table>
 
-
-
-
-
-### Apr 2020, Virtual   
-
-- [Download Virtual TestFest - V1.1 Results (PDF)](https://github.com/seanmcilroy29/Public-OMA-Documents/files/4609228/Virtual_Apr_2020_All_Test_Results.pdf)
-
-- [Problem Reports](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues)
-
-- [Virtual TestFest Product Listing Page](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Virtual-TestFest-Product-Listing)
-
-### Oct 2019, Korea
-![TTA](https://user-images.githubusercontent.com/8318213/43794189-70c6015a-9a75-11e8-881d-760bf5bad7f8.PNG)
-
-- [Download Korea TestFest - V1.0 Results (PDF)](https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819151/Korea_Oct_2019_v1_0_Consolidated_Test_Results.pdf)
-
-- [Download Korea TestFest - V1.1 Results (PDF)](https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819172/Korea_Oct_2019_v1_1_Consolidated_Test_Results.pdf)
-
-- [Problem Reports](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues)
-
-- [Korea TestFest Product Listing Page](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Korea-TestFest-Product-Listing)
-
-The last LwM2M TestFest took place in Seoul, Korea from 09th - 12th July 2018. The Event was organized and supported by OMA and hosted by [Telecommunications Technology Association (TTA).](http://www.tta.or.kr/)
-
-### Jul 2018, Korea
-
-![TTA](https://user-images.githubusercontent.com/8318213/43794189-70c6015a-9a75-11e8-881d-760bf5bad7f8.PNG)
-
-- [Download Korea TestFest Results (PDF)](https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267573/Korea_July_2018_All_Test_Results.pdf)
-
-- [Problem Reports](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues)
-
-- [Korea TestFest Product Listing Page](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Seoul-TestFest-Product-Listing)
 
 ### Nov 2017, Warsaw 
 
 ![Avsystems](https://cloud.githubusercontent.com/assets/10964397/26706185/3ed6e53a-46f0-11e7-9845-1b1934ec08b3.jpg)
 
-- [Download Warsaw TestFest Results (PDF)](https://github.com/seanmcilroy29/Public-OMA-Documents/files/1517215/Warsaw_Nov_2017_All_Test_Results.pdf)
+- [Download Warsaw TestFest Results (PDF)]()
 
-- [Problem Reports](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues)
 
-- [Warsaw TestFest Product Listing Page](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Warsaw-TestFest-Product-Listing)
+- [Warsaw TestFest Product Listing Page]()
 
 ### May 2017, Pittsburgh 
 
