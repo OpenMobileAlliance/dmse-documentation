@@ -132,6 +132,8 @@ Altair partners with leading global vendors, including G+D (Giesecke+Devrient), 
       <td>
             <p><a href= "https://github.com/seanmcilroy29/Public-OMA-Documents/files/2266929/Seoul-2018-Jul-ARM-Server_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - ARM Server Results 1.0 (PDF)</a></p>
             <p><a href= "https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509889/Warsaw-2017-Nov-ARM-Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - ARM Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046338/ARM-Client-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - ARM Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046340/ARM-Server-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - ARM Server Results 1.0 (PDF)</a></p>
      </td>
     </tr>
     </tbody>
@@ -172,7 +174,46 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2266933/Seoul-2018-Jul-AVSystems-Server_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - AVSystem Server Results 1.0 (PDF)</a></p>
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509899/Warsaw-2017-Nov_AVSystems._Client_Posted_Results.pdf">TF Warsaw,Poland - Oct/Nov 2017 -AVSystem Client Results 1.0 (PDF)</a></p>
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509906/Warsaw-2017-Nov_AVSystem-Server-Posted-Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - AVSystem Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046351/AVSystem-Client-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - AVSystem Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046352/AVSystem-Server-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - AVSystem Server Results 1.0 (PDF)</a></p>
         </td>
+    </tr>
+    </tbody>
+</table>
+
+## Centero 
+
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://cloud.githubusercontent.com/assets/10964397/26706294/0563aa58-46f1-11e7-8cde-effb3aa2d1b6.jpg"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Centero</td>
+      <td><a href="http://centerotech.com/">www.centerotech.com</a></td>
+    </tr>
+    <tr>
+      <td> More Product Information
+      </td>
+      <td><a href="http://centerotech.com/">www.centerotech.com</a>
+        <p>FabriK Thread Platform</p>
+        <p>WEE Thread Wireless Module</p>
+        <p>WHeeL Threar Border Router</p>
+        <p>YarN Thread development kit</p>        
+      </td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>LwM2M + IPSO Smart Obejcts application layer running over a Thread compliant communication stack/services.
+</td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046388/Centero-Client-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - Centero Client Results 1.0 (PDF)</a></p>
+      </td>
     </tr>
     </tbody>
 </table>
@@ -202,7 +243,8 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
     </tr>
     <tr>
       <td>TestFest Results</td>
-      <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1510344/Warsaw_2017_Nov-Cumulocity-Server-Posted-Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Cumulocity Server Results 1.0 (PDF)</a><p>
+      <td>
+        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1510344/Warsaw_2017_Nov-Cumulocity-Server-Posted-Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Cumulocity Server Results 1.0 (PDF)</a></p>
 </td>
     </tr>
     </tbody>
@@ -230,11 +272,77 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
     </tr>
     <tr>
       <td>TestFest Results</td>
-      <td><p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819463/Ericsson.v1.1.Server.Results.pdf">TF Seoul, Korea - Oct 19 - Ericsson v1.1 Server Results (PDF)</a></p>
-      <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267037/Seoul-2018-Jul-Ericsson-Server_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Ericsson Server Results 1.0 (PDF)</a></p></td>
+      <td>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819463/Ericsson.v1.1.Server.Results.pdf">TF Seoul, Korea - Oct 2019 - Ericsson v1.1 Server Results (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267037/Seoul-2018-Jul-Ericsson-Server_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Ericsson Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509921/Warsaw-2017-Nov_Ericsson_Server_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Ericsson Server Results 1.0 (PDF)</a></p>
+      </td>
     </tr>
     </tbody>
 </table>
+
+## ETRI
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://user-images.githubusercontent.com/8318213/33316567-48dccb5c-d42c-11e7-8c64-958ffe9cac9d.JPG"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ETRI</td>
+      <td><a href="https://www.etri.re.kr/eng/main/main.etri</a></td>
+    </tr>
+    <tr>
+      <td>Dynamic Digital Interaction</td>
+      <td><a href="https://etri.re.kr/eng/main/main.etri">https://etri.re.kr/eng/main/main.etri</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>ETRI LwM2M - For product details, email bytelee@etri.re.kr
+</td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509935/Warsaw-2017-Nov_ETRI_Client_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - ETRI Client Results 1.0 (PDF)</a></p>
+      </td>
+    </tr>
+    </tbody>
+</table>
+
+## Friendly Technologies
+
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://user-images.githubusercontent.com/8318213/33322200-641506c8-d440-11e7-807c-252e93c92697.JPG"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Friendly Technology</td>
+      <td><a href="http://www.friendly-tech.com">http://www.friendly-tech.com</a></td>
+    </tr>
+    <tr>
+      <td>Friendly's One-IoT™ Management Platform</td>
+      <td><a href="https://www.friendly-tech.com/products/internet-of-things-management-server">https://www.friendly-tech.com/products/internet-of-things-management-server</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information</td>
+      <td>Friendly's One-IoT™ Management Platform enables remote management of any type of IoT device, including constrained devices via standard protocols, such as: LWM2M, OMA-DM, MQTT,TR-069 and other proprietary protocols.
+</td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1510071/Warsaw_2017_Nov-Friendly_Technologies_Client_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Friendly Technologies Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1510074/Warsaw_2017_Nov-Friendly_Technologies_Server_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Friendly Technologies Server Results 1.0 (PDF)</a></p>
+</td>
+    </tr>
+    </tbody>
+</table>
+
 
 ## Gemalto
 
@@ -259,7 +367,10 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
     </tr>
     <tr>
       <td>TestFest Results</td>
-      <td><p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267087/Seoul-2018-Jul-Gemalto-Client_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Gemalto Client Results 1.0 (PDF)</a></p>
+      <td>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267087/Seoul-2018-Jul-Gemalto-Client_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Gemalto Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509944/Warsaw-2017-Nov_Gemalto_Client_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Gemalto Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509940/Warsaw-2017-Nov_Gamalto-Server-Results-Posted.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Gemalto Server Results 1.0 (PDF)</a></p>
 </td>
     </tr>
     </tbody>
@@ -321,6 +432,8 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
         <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819260/IoTerop.v1.1.Client.pdf">TF Seoul, Korea - Oct 2019 - IOTEROP Client v1.1 Results (PDF)</a></p>
         <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3880418/IoTerop.Server.1.1.Results.pdf">TF Seoul, Korea - Oct 2019 - IOTEROP Server v1.1 Results (PDF)</a></p>
         <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267346/Seoul-2018-Jul-IOTerop-Client_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - IOTEROP Client Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509950/Warsaw-2017-Nov_INTEROP-Client-Posted-Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - IOTEROP Client Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509952/Warsaw-2017-Nov_IoTerop-Server-Posted-Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - IOTEROP Server Results 1.0 (PDF)</a></p>
       </td>
     </tr>
     </tbody>
@@ -352,8 +465,12 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
     </tr>
     <tr>
       <td>TestFest Results</td>
-      <td><p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267400/Seoul-2018-Jul-Konas-Client_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Konas Client Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267399/Seoul-2018-Jul-Konas-Server_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Konas Server Results 1.0 (PDF)</a></p></td>
+      <td>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267400/Seoul-2018-Jul-Konas-Client_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Konas Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267399/Seoul-2018-Jul-Konas-Server_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Konas Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509956/Warsaw-2017-Nov_KONAS-Client-Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Konas Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509957/Warsaw-2017-Nov_Konas_Server_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Konas Server Results 1.0 (PDF)</a></p>
+      </td>
     </tr>
     </tbody>
 </table>
@@ -406,9 +523,72 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
     <tr>
       <td>TestFest Results</td>
       <td>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819467/Nokia.v1.1.Server.Results.pdf">TF Seoul Korea Oct 2019 - Nokia Server v1.1 Results (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267529/Seoul-2018-Jul-Nokia-Servewr_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Nokia Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819467/Nokia.v1.1.Server.Results.pdf">TF Seoul Korea Oct 2019 - Nokia Server v1.1 Results (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267529/Seoul-2018-Jul-Nokia-Servewr_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Nokia Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1513726/Warsaw_2017_Nov_Nokia._Server_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Nokia Server Results 1.0 (PDF)</a></p>
       </td>
     </tr>
   </tbody>
+</table>
+
+## Smith Micro
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://cloud.githubusercontent.com/assets/10964397/26735368/9462a72e-4776-11e7-963b-5b7ca62453ba.png"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Smith Micro Software</td>
+      <td><a href="http://www.smithmicro.com/">www.smithmicro.com</a></td>
+    </tr>
+    <tr>
+      <td>QuickLink IoT Services Platform</td>
+      <td><a href="http://www.smithmicro.com/iot-oem/products/quicklink-iot-services-platform/overview">http://www.smithmicro.com/iot-oem/products/quicklink-iot-services-platform/overview</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>Based on the Open Mobile Alliance’s LightweightM2M (LwM2M) and OMA-DM device management standards, the QuickLink® IoT Services Platform delivers an extensible, efficient and full-featured solution that addresses the main challenges associated with IoT device management. QuickLink IoT is a standards-based, client-server solution that provides fault and diagnostics management, device provisioning, device configuration, carrier-certified compliance with DM standards, and robust firmware and software updates.
+</td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+            <a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509963/Warsaw-2017-Nov_Smith_Micro_Client_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Smith Micro Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509965/Warsaw-2017-Nov_Smith_Micro_Server-Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Smith Micro Server Results 1.0 (PDF)</a></p>
+      </td>
+    </tr>
+    </tbody>
+</table>
+
+## Telit
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://cloud.githubusercontent.com/assets/10964397/26735539/2d74779e-4777-11e7-851e-8b8223028889.png"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Telit</td>
+      <td><a href="http://www.telit.com/">http://www.telit.com/</a></td>
+    </tr>
+    <tr>
+      <td>Telit IoT Platform and IoT Modules</td>
+      <td><a href="http://www.telit.com/">http://www.telit.com/</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>The Telit IoT Platform allows you to connect, integrate and manage internet “things” with visibility, control, interoperability and intelligent insight across the entire IoT value-chain. The IoT Portal uniquely delivers a single-vendor, single-portal management solution. Advanced services, resources and tools enable the application, administration, security, and management resources for data, device, connectivity and data plans.  Leveraging industry standards like TIA’s TR50 and OMA’s LWM2M, the platform enables easy integration with Telit Modules and other devices without the need for customization.
+</td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509979/Warsaw-2017-Nov_Telit-Client_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Telit Client Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509976/Warsaw-2017-Nov_Telit-Server-Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Telit Server Results 1.0 (PDF)</a></p>
+      </td>
+    </tr>
+    </tbody>
 </table>
