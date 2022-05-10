@@ -106,9 +106,11 @@ See more here: [http://developer.mbed.org/platforms/FRDM-K64F/](http://developer
 ![](https://cloud.githubusercontent.com/assets/10964397/14332668/71260d6e-fbff-11e5-9cb7-f14ff2914b0e.jpg)
 
 **FRDM-K64F**
+
 The Freedom-K64F is an ultra-low-cost development platform for Kinetis K64, K63, and K24 MCUs.
 
 **Overview**
+
 The Flagship FRDM-K64F has been designed by NXP in collaboration with mbed for prototyping all sorts of devices, especially those requiring optimized size and price points. The board is well sized for connected applications, thanks to its power efficient Kinetis K64F MCU featuring an ARM® Cortex®-M4 core running up to 120MHz and embedding 1024KB Flash, 256KB RAM and lots of peripherals (16-bit ADCs, DAC, Timers) and interfaces (Ethernet, USB Device Crystal-less and Serial). The Kinetis K64 MCU family remains fully software, hardware and development tool compatibility with Kinetis MCU and Freedom board families. It is packaged as a development board including extension headers compatible with Arduino R3 shields and includes a built-in USB Debug and Flash Programmer.
 
 Agenda:
@@ -121,51 +123,45 @@ Agenda:
     </tr>
     <tr>
       <td>9:15-9:30</td>
-      <td>Opening Remarks and Brief Overview of <a href="https://wiki.openmobilealliance.org/display/TOOL/Introduction+to+LightweightM2M"><em>LWM2M</em></a>
-</td>
-      <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/252001/Welcome_LwM2M_Workshop_Edinburgh_May16.pptx"><em>Introduction/Agenda</em></a>
-<p>
-<a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/251995/2.LWM2M.Introduction.pptx"><em>Download LWM2M Presentation</em></a>
-<p><a href="http://www.slideshare.net/OpenMobileAlliance/lwm2m-introduction-edinburgh-2016-workshop-with-arm"><em>View on SlideShare</em></a></td>
+      <td>Opening Remarks and Brief Overview of <a href="https://wiki.openmobilealliance.org/display/TOOL/Introduction+to+LightweightM2M"><em>LWM2M</em></a></td>
+      <td><p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/252001/Welcome_LwM2M_Workshop_Edinburgh_May16.pptx"><em>Introduction/Agenda</em></a></p>
+      <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/251995/2.LWM2M.Introduction.pptx"><em>Download LWM2M Presentation</em></a></p>
+      <p><a href="http://www.slideshare.net/OpenMobileAlliance/lwm2m-introduction-edinburgh-2016-workshop-with-arm"><em>View on SlideShare</em></a></p></td>
     </tr>
     <tr>
       <td>9:30-10:30</td>
       <td>Demo of the Arduino Yun by <a href="http://www.hopu.eu/"><em>HOP Ubiquitous</em></a>
-<p>
-* We will demo OMA LwM2M protocol using an Arduino-Yun board
-<p>* We will show step by step how to install the LwM2M Client in an Arduino Yun board and then open a connection to the Leshan Server to manipulate some basic sensors</p></td>
-      <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/251996/3.OMA.LwM2M.in.Arduino.Yun.pptx"><em>Download Presentation</em></a>
-<p><a href="http://www.slideshare.net/OpenMobileAlliance/oma-lwm2m-in-arduino-yun-edinburgh-2016-workshop-with-arm"><em>View on SlideShare</em></a></td>
+        <p>We will demo OMA LwM2M protocol using an Arduino-Yun board</p>
+        <p>We will show step by step how to install the LwM2M Client in an Arduino Yun board and then open a connection to the Leshan Server to manipulate some basic sensors</p>
+      </td>
+      <td>
+        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/251996/3.OMA.LwM2M.in.Arduino.Yun.pptx"><em>Download Presentation</em></a></p>
+        <p><a href="http://www.slideshare.net/OpenMobileAlliance/oma-lwm2m-in-arduino-yun-edinburgh-2016-workshop-with-arm"><em>View on SlideShare</em></a></p>
+      </td>
     </tr>
     <tr>
       <td>10:30-10:45</td>
       <td>Demo of the LwM2M <a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki"><em>Editor Tool and DevKit</em></a>
-<p>
-* We will also demo how to use the LwM2M Editor Tool to create Objects & Resources and how to register them with OMA</td>
-      <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/251998/4.OMA_Developer_ToolKit_May16.pptx"><em>Download Presentation</em></a>
-<p><a href="http://www.slideshare.net/OpenMobileAlliance/lwm2m-editor-tool-and-devkit-edinburgh-2016-workshop-with-arm"><em>View on SlideShare</em></a></td>
+      <p>We will also demo how to use the LwM2M Editor Tool to create Objects & Resources and how to register them with OMA</p></td>
+      <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/251998/ 4.OMA_Developer_ToolKit_May16.pptx"><em>Download Presentation</em></a>
+      <p><a href="http://www.slideshare.net/OpenMobileAlliance/lwm2m-editor-tool-and-devkit-edinburgh-2016-workshop-with-arm"><em>View on SlideShare</em></a></p></td>
     </tr>
     <tr>
-      <td>* 10:45-11:00</td>
+      <td>10:45-11:00</td>
       <td>Break / Hand out FRDM-K64F Boards</td>
       <td></td>
     </tr>
     <tr>
       <td>11:00-15:00</td>
       <td>NXP FRDM-K64F Platform with <a href="https://developer.mbed.org/platforms/FRDM-K64F/"><em>ARM mbed</em></a> demo
-<p>
-* A causal lunch will be provided and attendees will be able to eat lunch as they like any time between 11:30 and 13:00</td>
+       <p>A causal lunch will be provided and attendees will be able to eat lunch as they like any time between 11:30 and 13:00</p></td>
       <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/251999/mbed.Tutorial.pptx"><em>Download Presentation</em></a>
-<p>
-<a href="http://www.slideshare.net/OpenMobileAlliance/nxp-frdmk64f-platform-with-arm-mbed-demo-edinburgh-2016-workshop"><em>View on SlideShare</em></a></p>
-<p>
-<a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/252011/FRDMK64FUG.pdf"><em>FRDMK64FUG.pdf datasheet</em></a></p>
-<p>
-<a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/252012/fxos8700cq_ds_rev6.pdf"><em>fxos8700cq_ds_rev6.pdf  datasheet</em></a></p>
-<p>
-<a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/252014/mbed-ethernet-sample-kone-master.zip"><em>mbed-ethernet-sample-kone-master.zip</em></a></p>
+      <p><a href="http://www.slideshare.net/OpenMobileAlliance/nxp-frdmk64f-platform-with-arm-mbed-demo-edinburgh-2016-workshop"><em>View on SlideShare</em></a></p>
+      <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/252011/FRDMK64FUG.pdf"><em>FRDMK64FUG.pdf datasheet</em></a></p>
+      <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/252012/fxos8700cq_ds_rev6.pdf"><em>fxos8700cq_ds_rev6.pdf  datasheet</em></a></p>
+      <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/252014/mbed-ethernet-sample-kone-master.zip"><em>mbed-ethernet-sample-kone-master.zip</em></a></p>
     </tr>
-      </tbody>
+  </tbody>
 </table>
 
 Get more information on this Workshop _[here](http://www.meetup.com/Edinburgh-Free-IoT-Platform-Training-and-Workshop/events/228732133/)_
@@ -187,7 +183,9 @@ Who will hand out free hardware platforms at workshop? This is one day-free even
 
 **Developers**
 <p>Eclipse Foundation is developing two LwM2M projects:</p>
+
 * Wakaama – C language
+
 * Leshan – Java
 
 You can contribute and enhance these projects or construct your own applications and services around this protocol.
@@ -249,7 +247,7 @@ This event took place at the Vodafone Innovation Park, Dusseldorf, Germany, from
 The Event was organized by **OMA** and supported by **Vodafone**, **Eclipse Foundation** and **IPSO Alliance**. 
 
 #### OMA LwM2M Developer ToolKit
- [`OMA LwM2M Developer ToolKit`](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/wiki/OMA-Developer-Tool-Kit).
+ [OMA LwM2M Developer ToolKit](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/wiki/OMA-Developer-Tool-Kit).
 
 The material presented during the Workshop can be found below:
 #### Presentation
@@ -280,39 +278,39 @@ The material presented during the Workshop can be found below:
 * [All speaker presentations are available on the OMA SlideShare account](http://www.slideshare.net/OpenMobileAlliance/presentations)
 
 #### Presentations
-1. **Dr. Omar Elloumi** Alcatel-Lucent Bell Labs (ATIS), Technical Plenary Chair
+* **Dr. Omar Elloumi** Alcatel-Lucent Bell Labs (ATIS), Technical Plenary Chair
 <p>Presentation Title: “oneM2M interworking and semantics framework”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-1-dr-omar-elloumi-onem2m-interworking-and-semanitcs-framework)</p>
 
-2. **Nicolas Damour** Senior Manager, Business and Innovation Development, Sierra Wireless  
+* **Nicolas Damour** Senior Manager, Business and Innovation Development, Sierra Wireless  
 <p>Presentation Title: “Close Encounters of the Seventh Kind”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-2-nicolas-damour-close-encounters-of-the-seventh-kind)</p>
 
-3. **Benjamin Cabé** IoT Evangelist, Eclipse Foundation
+* **Benjamin Cabé** IoT Evangelist, Eclipse Foundation
 <p>Presentation title: “Building an Open Internet of Things, the Eclipse way”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-3-benjamin-cab-building-an-open-internet-of-things-the-eclipse-way)</p>
 
-4. **Friedhelm Rodermund** IoT Consultant, Vodafone
+* **Friedhelm Rodermund** IoT Consultant, Vodafone
 <p>Presentation Title: “LWM2M and LPWA”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-4-friedhelm-rodermund-lwm2m-and-lpwa)</p>
 
-5. **Dr. Antonio J. Jara** Founder, HOP Ubiquitous
+* **Dr. Antonio J. Jara** Founder, HOP Ubiquitous
 <p>Presentation Title: “OMA LwM2M + OMA GotAPI: The mobile opportunity for the consumer IoT”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-5-dr-antonio-jara-oma-lwm2m-oma-gotapi-the-mobile-opportunity-for-the-consumer-iot)</p>
 
-6. **Sunil Marolia** VP Product Management, Smith Micro
+* **Sunil Marolia** VP Product Management, Smith Micro
 <p>Presentation title: “Taming the IoT Beast, One Managed Object at a Time”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-6-sunil-marolia-taming-the-iot-beast-one-managed-object-at-a-time)</p>
 
-7. **Joaquin Prado** Director of Technical Programs, Open Mobile Alliance
+* **Joaquin Prado** Director of Technical Programs, Open Mobile Alliance
 <p>Presentation Title: “LwM2M Developer Toolkit”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-7-joaquin-prado-oma-developer-toolkit)</p>
 
-8. **Amit Shah** VP, IOT R&D  Company, Alcatel-Lucent
+* **Amit Shah** VP, IOT R&D  Company, Alcatel-Lucent
 <p>Presentation Title: “Certifying, Securing and Managing things”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-8-amit-shah-certifying-security-and-managing-things)</p>
 
-9. **Kenneth Lowe** Solution Sales Manager, Gemalto M2M Division
+* **Kenneth Lowe** Solution Sales Manager, Gemalto M2M Division
 <p>Presentation title: “Fast track your LWM2M development with Gemalto tools”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-9-kenneth-lowe-fast-track-your-lwm2m-development-with-gemalto-tools)</p>
 
