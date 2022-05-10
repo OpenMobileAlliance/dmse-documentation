@@ -83,7 +83,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
     </tr>
     <tr>
       <td>Follow Altair Twitter:</td>
-      <td>@AltairSemi</td>
+      <td><a href="https://twitter.com/AltairSemi" target="_blank"> @AltairSemi</a></td>
     </tr>
     <tr>
       <td>LinkedIn</td>
@@ -102,6 +102,40 @@ Altair partners with leading global vendors, including G+D (Giesecke+Devrient), 
       <td><p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819708/Altair.Semiconductors.V1.1.-.Client.pdf">TF Seoul, Korea - Oct 2019 - Altair - 1.1 Client Results</a></p>
       <p><a href= "https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509894/Warsaw-2017-Nov_Altair_Semiconductor-Results_Posted.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Altair Semiconductor Client Results 1.0 (PDF)</a></p>
 </td>
+    </tr>
+    </tbody>
+</table>
+
+## Altiux
+
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://cloud.githubusercontent.com/assets/10964397/13469523/92bef260-e05c-11e5-9741-030fe04df0c2.jpg"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Altiux Innovations Pvt Ltd</td>
+      <td><a href="http://www.altiux.com">www.altiux.com</a></td>
+    </tr>
+    <tr>
+      <td>Connectivity Middleware – BoxPwr</td>
+      <td><a href="http://www.altiux.com/products.html">www.altiux.com/products.html</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>BoxPwr - Our connectivity middleware is a comprehensive framework of software stacks to develop future ready nodes and gateways to enable cutting edge IoT solutions. BoxPwr is a universal framework that can be used across standards and vendor equipment.  
+<p>BoxPwr leverages our LWM2M solution (with both client and Server Implementations) for device and application data management. Device management includes functions such as bootstrapping, device configuration, firmware update and fault management. Application data management includes reporting, configuration and control. Our LWM2M solution is highly interoperable and scalable which can be used across various M2M applications.</p> 
+
+</td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/135370/Altiux_Innovations_Client_Results_Post.pdf">TF San Diego, USA - Jan 2016 - Altiux Innovations Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/135371/Altiux_Innovations_Server_Results_Post.pdf">TF San Diego, USA - Jan 2016 - Altiux Innovations Server Results 1.0 (PDF)</a></p>
+      </td>
     </tr>
     </tbody>
 </table>
@@ -176,9 +210,28 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509906/Warsaw-2017-Nov_AVSystem-Server-Posted-Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - AVSystem Server Results 1.0 (PDF)</a></p>
             <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046351/AVSystem-Client-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - AVSystem Client Results 1.0 (PDF)</a></p>
             <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046352/AVSystem-Server-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - AVSystem Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/632055/AVSystem-Client-Results-Post.pdf">TF Singapore - Oct 2016 - AVSystem Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/632057/AVSystem-Server-Results-Post.pdf">TF Singapore - Oct 2016 - AVSystem Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/136762/AVSystem_Client_Results_Post.pdf">TF San Diego, USA - Jan 2016 - AVSystem Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/136763/AVSystem_Server_Results_Post.pdf">TF San Diego, USA - Jan 2016 - AVSystem Server Results 1.0 (PDF)</a></p>
         </td>
     </tr>
     </tbody>
+</table>
+
+## Awa LightweightM2M
+
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><a href="https://github.com/FlowM2M/AwaLWM2M" target="_blank">Awa LightweightM2M by Imagination</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Open Source</td>
+      <td>Awa LightweightM2M is an implementation of the OMA Lightweight M2M protocol that provides a secure and standards compliant device management solution to simplify the development of M2M applications by providing an intuitive API that enables customization without the need for an intimate knowledge of M2M protocols.</a></td>
+    </tr>
 </table>
 
 ## Centero 
@@ -276,6 +329,8 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819463/Ericsson.v1.1.Server.Results.pdf">TF Seoul, Korea - Oct 2019 - Ericsson v1.1 Server Results (PDF)</a></p>
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267037/Seoul-2018-Jul-Ericsson-Server_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Ericsson Server Results 1.0 (PDF)</a></p>
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509921/Warsaw-2017-Nov_Ericsson_Server_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Ericsson Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046393/Ericsson-Server-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - Ericsson Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/620466/Ericsson-Server-Results-Post.pdf">TF Singapore - Oct 2016 -  Ericsson Server Results 1.0 (PDF)</a></p>
       </td>
     </tr>
     </tbody>
@@ -371,6 +426,9 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267087/Seoul-2018-Jul-Gemalto-Client_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - Gemalto Client Results 1.0 (PDF)</a></p>
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509944/Warsaw-2017-Nov_Gemalto_Client_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Gemalto Client Results 1.0 (PDF)</a></p>
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509940/Warsaw-2017-Nov_Gamalto-Server-Results-Posted.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Gemalto Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048220/Gemalto-Results-Post.pdf">TF  Pittsburgh, USA - May 2017 - Gemalto Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/128334/Gemalto_Client_Results_Post.pdf">TF San Diego, USA - Jan 2016 - Gemalto Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/128338/Gemalto_Server_Results_Post.pdf">TF San Diego, USA - Jan 2016 - Gemalto Server Results 1.0 (PDF)</a></p>
 </td>
     </tr>
     </tbody>
@@ -407,6 +465,73 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
     </tbody>
 </table>
 
+## Huawei
+
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://cloud.githubusercontent.com/assets/10964397/26734565/60785196-4773-11e7-9929-0c4c228f8214.png"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Huawei Technologies Co., Ltd.</td>
+      <td><a href="http://www.huawei.com/en/">http://www.huawei.com/</a></td>
+    </tr>
+    <tr>
+      <td>OceanConnect IoT Platform</td>
+      <td><a href="http://developer.huawei.com/ict/en/site-oceanconnect">http://developer.huawei.com/ict/en/site-oceanconnect</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>As an unified and open cloud platform for carriers, enterprise, and industries, Huawei OceanConnect IoT platform provides the open three-layers architecture, including a connection management platform, ICT-integrated device management platform, and a flexible application enablement platform. With open APIs and unique Agents, the IoT connection management platform quickly integrates various network applications and accesses different types of sensors, devices, and gateways for carriers, enterprises, and industrial customers.
+</td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048247/Huawei-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - Huawei Server Results 1.0 (PDF)</a></p>
+</td>
+    </tr>
+    </tbody>
+</table>
+
+## InterDigital
+
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://cloud.githubusercontent.com/assets/10964397/26734788/26a14288-4774-11e7-868a-e9caf3d02c30.jpg"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>InterDigital</td>
+      <td><a href="http://www.interdigital.com/">www.interdigital.com</a></td>
+    </tr>
+    <tr>
+      <td>InterDigital’s IoT Platform</td>
+      <td><a href="http://www.interdigital.com/iot">www.interdigital.com/iot</a>
+          <p>(featuring LWM2M server and client)</p>
+      </td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>InterDigital’s IoT platform is a secure and scalable platform rooted in oneM2MTM standard. It supports LWM2M based device management (server and client) as both the integral part of the platform and as a standalone solution. It is applicable to both more powerful as well as constrained IoT devices. InterDigital’s device management comes with a web-based user interface which allows for administrative and device management functions. The administrative components include: enterprise and user management, policy engine, and auditing functions. Device management components include: discovery/provisioning, monitoring (e.g. operational status, battery level, connectivity status), and software/firmware updates. 
+<p>oneM2M is a trademark of the Partners Type 1 of oneM2M
+</td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+        <p><a href="https://github.com/OpenMobileAlliance/OMA-Public-Documents/files/1053552/InterDigital-Server-Aggregated-Results.pdf">TF Pittsburgh, USA - May 2017 - Interdigital Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/OpenMobileAlliance/OMA-Public-Documents/files/1053549/InterDigital-Client-Aggregated-Results.pdf">TF Pittsburgh, USA - May 2017 - Interdigital Client Results 1.0 (PDF)</a></p>
+      </td>
+    </tr>
+    </tbody>
+</table>
+
+
 ## IoTErop
 
 <table>
@@ -434,6 +559,9 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
         <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267346/Seoul-2018-Jul-IOTerop-Client_Results_Posted.pdf">TF Seoul, Korea - Jul 2018 - IOTEROP Client Results 1.0 (PDF)</a></p>
         <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509950/Warsaw-2017-Nov_INTEROP-Client-Posted-Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - IOTEROP Client Results 1.0 (PDF)</a></p>
         <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509952/Warsaw-2017-Nov_IoTerop-Server-Posted-Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - IOTEROP Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048285/IoTerop-Results-Post.pdf">TF  Pittsburgh, USA - May 2017 - IOTEROP Client Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/620493/IOTEROP-Server-Results-Post.pdf">TF Singapore - Oct 2016 - IOTEROP Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/620494/IOTEROP-Client-Results-Post.pdf">TF Singapore - Oct 2016 - IOTEROP Client Results 1.0 (PDF)</a></p>
       </td>
     </tr>
     </tbody>
@@ -499,6 +627,65 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
    </tbody>
 </table>
 
+## LochBridge
+
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://cloud.githubusercontent.com/assets/10964397/13856815/37b24e6a-ec34-11e5-9500-f7c37c0331a3.png"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lochbridge</td>
+      <td><a href="http://lochbridge.com/">www.lochbridge.com</a></td>
+    </tr>
+    <tr>
+      <td>Lochbridge IOT Device Management Platform</sup></td>
+      <td><a href="http://lochbridge.com/iot/">www.lochbridge.com/iot/</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>
+        <p>The Device Management Platform plays a pivotal role within the Lochbridge end-to-end IoT suite. Our solutions span the entire ecosystem from device management to enterprise integration to analytics at-scale. In addition, these solutions support key IoT use cases across industries including automotive, health care and manufacturing, among others.</p>
+        <p>One key feature of the Device Management Platform is its impressive flexibility, providing secure software update management and remote diagnostics across a plethora of IoT devices. In addition to its flexibility, the platform provides the scalability and reliability to handle billions of IoT transactions. On a technical note, the OSGi based platform implements OMA DM 2.0 and LwM2M 1.0 specification for device management with the Core Gateway handling all major IoT protocols including MQTT, REST, CoAP, DTLS and AMQP with a plug-and-play architecture. Through our participation in the OMA TestFest, we also proved the industry-standard compliance and interoperable nature of our solution.</p>
+</td>
+    </tr>
+    </tbody>
+</table>
+
+## MDS Technology
+<table>
+  <thead>
+    <tr>
+      <td><td rowspan="2"><img src="https://cloud.githubusercontent.com/assets/10964397/26735127/6907f652-4775-11e7-81fa-4392957b2c85.jpg"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MDS Technology Co., Ltd.</td>
+      <td><a href="http://eng.mdstec.com/index.asp">http://eng.mdstec.com/index.asp</a></td>
+    </tr>
+    <tr>
+      <td>NeoIDM</td>
+      <td><a href="http://eng.mdstec.com/sub/index.asp?idx=020401">http://eng.mdstec.com/sub/index.asp?idx=020401</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>NeoIDM is an IoT platform for managing IoT devices based on the international standard Lw2M2M. It can be applied in various IoT scenario development as it is designed to easily simulate heterogeneous equipment, low-end sensors and gateways.
+        <p>MDS Technology provides IoT consulting and integration service to enable data collection and device control for heterogeneous devices. By providing NeoIDM Framework interworking with Azure IoT Suite, LwM2M based devices are easily connected to the Azure Cloud Services and provides scalability and device management functions like FOTA.
+      </td>
+    </tr>            
+    <tr>
+        <td>TestFest Results</td>
+        <td>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048309/MDS-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - MDS Technology Server Results 1.0 (PDF)</a></p> 
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/632040/MDS-Client-Results-Post.pdf">TF Singapore - May 2016 - MDS Client Results 1.0 (PDF)</a></p>          
+        </td>
+    </tr>
+    </tbody>
+</table>
+
 ## Nokia
 
 <table>
@@ -557,6 +744,8 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
       <td>
             <a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509963/Warsaw-2017-Nov_Smith_Micro_Client_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Smith Micro Client Results 1.0 (PDF)</a></p>
             <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509965/Warsaw-2017-Nov_Smith_Micro_Server-Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Smith Micro Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048327/SmithMicro-Client-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - Smith Micro Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048328/SmithMicro-Server-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - Smith Micro Server Results 1.0 (PDF)</a></p>
       </td>
     </tr>
     </tbody>
@@ -588,6 +777,8 @@ Coiote IoT Device Management is a platform that helps OEMs, enterprises and serv
       <td>
         <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509979/Warsaw-2017-Nov_Telit-Client_Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Telit Client Results 1.0 (PDF)</a></p>
         <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509976/Warsaw-2017-Nov_Telit-Server-Posted_Results.pdf">TF Warsaw, Poland - Oct/Nov 2017 - Telit Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048341/Telit-Client-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - Telit Client Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048343/Telit-Server-Results-Post.pdf">TF Pittsburgh, USA - May 2017 - Telit Server Results 1.0 (PDF)</a></p>
       </td>
     </tr>
     </tbody>
