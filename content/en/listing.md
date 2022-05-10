@@ -4,10 +4,9 @@ description: 'recopilation of companies/products attending OMA LwM2M TestFest Ev
 position: 10
 category: 'LWM2M'
 ---
+The LwM2M Product Listing page showcases products using OMA's LwM2M protocol from various companies who have participated in LwM2M TestFest events. 
 
 ![image](https://user-images.githubusercontent.com/3258579/167474533-200c65d8-fe65-4bad-94b6-72a5f7549278.png)
-
-The LwM2M Product Listing page showcases products using OMA's LwM2M protocol from various companies who have participated in LwM2M TestFest events. 
 
 Below you can read more about each company's product and how it's utilizing LwM2M.
 
