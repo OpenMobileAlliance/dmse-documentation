@@ -2,13 +2,16 @@
   "title": "DMSE Documentation",
   "url": "",
   "logo": {
-    "light": "./oma2.png",
-    "dark": "./oma2.png"
+    "light": "/oma2.png",
+    "dark": "/oma2.png"
   },
   "github": "OpenMobileAlliance",
   "twitter": "OMASpecWorks",
+  "youtube": "OMASpecWorks",
+  "linkedin": "open-mobile-alliance",
   "algolia": {
-    "apiKey": "3677e049d48c83792ba0d2cb0715a12f",
-    "indexName": "nuxtjs_content"
+    "appId": "BH4D9OD16A",
+    "apiKey": "7cae46537bbb611c92ae53c73a567064",
+    "indexName": "lwm2m"
     }
 }
