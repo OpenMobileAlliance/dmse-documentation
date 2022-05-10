@@ -1,7 +1,7 @@
 ---
 title: 22 - Object Observe Notify
 description: 'This is the description of Object 22'
-position: 2
+position: 20
 category: 'Object Guidelines'
 ---
 ## Scope
