@@ -1,7 +1,7 @@
 ---
-title: 22 - Object Observe Notify
+title: LwM2M Objects
 description: 'This is the description of Object 22'
-position: 10
+position: 20
 category: 'Object Guidelines'
 ---
 ## Scope

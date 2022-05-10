@@ -1,5 +1,5 @@
 ---
-title: LwM2M Protocol
+title: Protocol
 description: ''
 position: 1
 category: 'LWM2M'
