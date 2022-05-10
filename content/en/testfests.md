@@ -1,5 +1,5 @@
 ---
-title: LwM2M TestFests
+title: TestFests - Workshops
 description: 'recopilation of OMA TestFests information'
 position: 5
 category: 'LWM2M'
@@ -9,7 +9,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
 
 ![image](https://user-images.githubusercontent.com/3258579/167474533-200c65d8-fe65-4bad-94b6-72a5f7549278.png)
 
-## List of LwM2M TestFest Events 
+## LwM2M TestFest Events 
 > Note: Please see <a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues" target="_blank">GitHub Issues</a> for any problems reported at the TestFest Events listed below.
 >
 >  _You can find the reports raised during the event by searching the event days._
@@ -25,73 +25,77 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
     </thead>
     <tbody>
         <tr>
-            <td>OMA</td>
+            <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Virtual</td>
             <td>Mar/Apr 2021</td>
             <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/6295903/Mar_2021_VTF_Summary_and_Results_v1.0.pdf" target="_blank"> v1.0</a> </br> <a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/6295594/Mar_2021_VTF_Summary_and_Results.pdf" target="_blank"> v1.1</a></td>
-            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Mar-2021--Virtual-TestFest-Product-Listings" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
-            <td>OMA</td>
+            <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Virtual</td>
             <td>Apr 2020</td>
             <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/4609228/Virtual_Apr_2020_All_Test_Results.pdf" target="_blank"> v1.1</a></td>
-            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Virtual-TestFest-Product-Listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="http://www.tta.or.kr/" target="_blank">TTA</a></td>
             <td>South Korea</td>
             <td>Oct 2019</td>
             <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819151/Korea_Oct_2019_v1_0_Consolidated_Test_Results.pdf" target="_blank"> v1.0</a> </br><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819172/Korea_Oct_2019_v1_1_Consolidated_Test_Results.pdf" target="_blank"> v1.1</a> </td>
-            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Korea-TestFest-Product-Listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="http://www.tta.or.kr/" target="_blank">TTA</a></td>
             <td>South Korea</td>
             <td>Jul 2018</td>
             <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267573/Korea_July_2018_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
-            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Seoul-TestFest-Product-Listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="https://www.avsystem.com/" target="_blank">Avsystems</a></td>
             <td>Warsaw</td>
             <td>Nov 2017</td>
             <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1517215/Warsaw_Nov_2017_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
-            <td><a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Warsaw-TestFest-Product-Listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.smithmicro.com/" target="_blank">SmithMicro</a></td>
+            <td>Pittsburgh</td>
+            <td>May 2017</td>
+            <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1032619/TestFest-Summary-Document.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
+            <td>Singapore</td>
+            <td>Oct 2016</td>
+            <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/578633/OMA-TestFest-Results-Summary-Singapore.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
+            <td>San Diego</td>
+            <td>Jan 2016</td>
+            <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/137105/Jan.2016.TestFest.Summary.Document.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.vodafone.com/" target="_blank">Vodafone</a></td>
+            <td>Düsseldorf</td>
+            <td>Jan 2015</td>
+            <td><a href="http://dev_devtoolkit.openmobilealliance.org/IoT/Dusseldorf2015/TestFest%20Summary%20Document.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="./product" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
     </body>
 </table>
 
+## LwM2M Workshops
 
-### Nov 2017, Warsaw 
-
-![Avsystems](https://cloud.githubusercontent.com/assets/10964397/26706185/3ed6e53a-46f0-11e7-9845-1b1934ec08b3.jpg)
-
-- [Download Warsaw TestFest Results (PDF)]()
+![image](https://user-images.githubusercontent.com/3258579/167474533-200c65d8-fe65-4bad-94b6-72a5f7549278.png)
 
 
-- [Warsaw TestFest Product Listing Page]()
-
-### May 2017, Pittsburgh 
-
-![smith micro logo small](https://cloud.githubusercontent.com/assets/10964397/26506892/e61b293e-4202-11e7-87e0-60a993dded10.jpg)
-
-- [Download TestFest Results (PDF)](https://github.com/Megan-OMA/Public-OMA-Documents/files/1032619/TestFest-Summary-Document.pdf)
-
-- [Problem Reports](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues)
-
-- [Pittsburgh TestFest Product Listing Page](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Product-Listing)
-
-### Oct 2016, Singapore
-The Event was organized and supported by **OMA** at the Grand Copthorne Waterfront Hotel.
-
-- [Download TestFest Results (PDF)](https://github.com/Megan-OMA/Public-OMA-Documents/files/578633/OMA-TestFest-Results-Summary-Singapore.pdf)
-
-- [Problem Reports](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/issues)
-
-- [Singapore TestFest Product Listing Page](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/Singapore-TestFest-Product-Listing)
-
-### May 2016, Workshop, Edinburgh 
+### May 2016 - Edinburgh 
 
 See more information on the [MeetUp page.](http://www.meetup.com/Edinburgh-Free-IoT-Platform-Training-and-Workshop/events/228732133/)
 
@@ -168,71 +172,6 @@ Get more information on this Workshop _[here](http://www.meetup.com/Edinburgh-Fr
 
 ### Jan 2016, San Diego
 
-This LwM2M TestFest took place in San Diego, CA, USA from 18th to 21st of January 2016. 
-The Event was organized and supported by **OMA** at the DoubleTree by Hilton San Diego - Mission Valley.
-
-- [Download TestFest Results (PDF)](https://github.com/Megan-OMA/Public-OMA-Documents/files/137105/Jan.2016.TestFest.Summary.Document.pdf)
-
-
-- [Problem Reports](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/issues)
-
-
-- [San Diego TestFest Product Listing Page](https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/wiki/San-Diego-TestFest-Product-Listing)
-
-### Jan 2016, San Diego,IoT Seminar
-
-OMA IoT Seminar jointly presented by oneM2M
-
-#### TITLE: Bridging the Gap between Standards and Developers in the IoT Space
-January 21, 2016
-
-The material presented during the Workshop can be found below:
-
-* [Download the event agenda and speaker bio's](http://openmobilealliance.org/wp-content/uploads/2015/10/IoT-Seminar-Speakers-January-2016.pdf)
-* [All speaker presentations are available on the OMA SlideShare account](http://www.slideshare.net/OpenMobileAlliance/presentations)
-
-#### Presentations
-1. **Dr. Omar Elloumi** Alcatel-Lucent Bell Labs (ATIS), Technical Plenary Chair
-<p>Presentation Title: “oneM2M interworking and semantics framework”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-1-dr-omar-elloumi-onem2m-interworking-and-semanitcs-framework)</p>
-
-2. **Nicolas Damour** Senior Manager, Business and Innovation Development, Sierra Wireless  
-<p>Presentation Title: “Close Encounters of the Seventh Kind”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-2-nicolas-damour-close-encounters-of-the-seventh-kind)</p>
-
-3. **Benjamin Cabé** IoT Evangelist, Eclipse Foundation
-<p>Presentation title: “Building an Open Internet of Things, the Eclipse way”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-3-benjamin-cab-building-an-open-internet-of-things-the-eclipse-way)</p>
-
-4. **Friedhelm Rodermund** IoT Consultant, Vodafone
-<p>Presentation Title: “LWM2M and LPWA”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-4-friedhelm-rodermund-lwm2m-and-lpwa)</p>
-
-5. **Dr. Antonio J. Jara** Founder, HOP Ubiquitous
-<p>Presentation Title: “OMA LwM2M + OMA GotAPI: The mobile opportunity for the consumer IoT”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-5-dr-antonio-jara-oma-lwm2m-oma-gotapi-the-mobile-opportunity-for-the-consumer-iot)</p>
-
-6. **Sunil Marolia** VP Product Management, Smith Micro
-<p>Presentation title: “Taming the IoT Beast, One Managed Object at a Time”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-6-sunil-marolia-taming-the-iot-beast-one-managed-object-at-a-time)</p>
-
-7. **Joaquin Prado** Director of Technical Programs, Open Mobile Alliance
-<p>Presentation Title: “LwM2M Developer Toolkit”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-7-joaquin-prado-oma-developer-toolkit)</p>
-
-8. **Amit Shah** VP, IOT R&D  Company, Alcatel-Lucent
-<p>Presentation Title: “Certifying, Securing and Managing things”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-8-amit-shah-certifying-security-and-managing-things)</p>
-
-9. **Kenneth Lowe** Solution Sales Manager, Gemalto M2M Division
-<p>Presentation title: “Fast track your LWM2M development with Gemalto tools”</p>
-<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-9-kenneth-lowe-fast-track-your-lwm2m-development-with-gemalto-tools)</p>
-
-#### Videos
-* The recorded webinar of this event event can be found in the [OMA Event](http://openmobilealliance.org/event/oma-iot-seminar/) pages.
-
-### Jan 2016, Workshop, San Diego
-
 OMA has partnered with the following platform vendors:
 * Arduino
 * Sierra Wireless 
@@ -305,17 +244,9 @@ You can contribute and enhance these projects or construct your own applications
     </tbody>
 </table>
 
-### January 2015, Dusseldorf 
-
-The LwM2M TestFest in 2015 took place in the Vodafone Innovation Park, Dusseldorf, Germany, from 26th to 29th January 2015. 
-The Event was organized by **OMA** and supported by 
-**Vodafone**, **Eclipse Foundation** and **IPSO Alliance**. 
-
-- [TestFest Results](http://dev_devtoolkit.openmobilealliance.org/IoT/Dusseldorf2015/TestFest%20Summary%20Document.pdf)
-
-- [`Problem Reports`](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/issues)
-
-### Jan 2015, Dusseldorf, Workshop 
+### Jan 2015, Dusseldorf 
+This event took place at the Vodafone Innovation Park, Dusseldorf, Germany, from 26th to 29th January 2015. 
+The Event was organized by **OMA** and supported by **Vodafone**, **Eclipse Foundation** and **IPSO Alliance**. 
 
 #### OMA LwM2M Developer ToolKit
  [`OMA LwM2M Developer ToolKit`](https://github.com/OpenMobileAlliance/OMA-LwM2M-Public-Review/wiki/OMA-Developer-Tool-Kit).
@@ -334,3 +265,56 @@ The material presented during the Workshop can be found below:
 
 #### Videos
 * A video for each speaker can be found in the [OMA Event](http://www.omaevents.org/?page_id=1377) pages.
+
+## LwM2M Seminars
+### Jan 2016, San Diego
+
+OMA IoT Seminar jointly presented by oneM2M
+
+#### TITLE: Bridging the Gap between Standards and Developers in the IoT Space
+January 21, 2016
+
+The material presented during the Workshop can be found below:
+
+* [Download the event agenda and speaker bio's](http://openmobilealliance.org/wp-content/uploads/2015/10/IoT-Seminar-Speakers-January-2016.pdf)
+* [All speaker presentations are available on the OMA SlideShare account](http://www.slideshare.net/OpenMobileAlliance/presentations)
+
+#### Presentations
+1. **Dr. Omar Elloumi** Alcatel-Lucent Bell Labs (ATIS), Technical Plenary Chair
+<p>Presentation Title: “oneM2M interworking and semantics framework”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-1-dr-omar-elloumi-onem2m-interworking-and-semanitcs-framework)</p>
+
+2. **Nicolas Damour** Senior Manager, Business and Innovation Development, Sierra Wireless  
+<p>Presentation Title: “Close Encounters of the Seventh Kind”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-2-nicolas-damour-close-encounters-of-the-seventh-kind)</p>
+
+3. **Benjamin Cabé** IoT Evangelist, Eclipse Foundation
+<p>Presentation title: “Building an Open Internet of Things, the Eclipse way”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-3-benjamin-cab-building-an-open-internet-of-things-the-eclipse-way)</p>
+
+4. **Friedhelm Rodermund** IoT Consultant, Vodafone
+<p>Presentation Title: “LWM2M and LPWA”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-4-friedhelm-rodermund-lwm2m-and-lpwa)</p>
+
+5. **Dr. Antonio J. Jara** Founder, HOP Ubiquitous
+<p>Presentation Title: “OMA LwM2M + OMA GotAPI: The mobile opportunity for the consumer IoT”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-5-dr-antonio-jara-oma-lwm2m-oma-gotapi-the-mobile-opportunity-for-the-consumer-iot)</p>
+
+6. **Sunil Marolia** VP Product Management, Smith Micro
+<p>Presentation title: “Taming the IoT Beast, One Managed Object at a Time”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-6-sunil-marolia-taming-the-iot-beast-one-managed-object-at-a-time)</p>
+
+7. **Joaquin Prado** Director of Technical Programs, Open Mobile Alliance
+<p>Presentation Title: “LwM2M Developer Toolkit”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-7-joaquin-prado-oma-developer-toolkit)</p>
+
+8. **Amit Shah** VP, IOT R&D  Company, Alcatel-Lucent
+<p>Presentation Title: “Certifying, Securing and Managing things”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-8-amit-shah-certifying-security-and-managing-things)</p>
+
+9. **Kenneth Lowe** Solution Sales Manager, Gemalto M2M Division
+<p>Presentation title: “Fast track your LWM2M development with Gemalto tools”</p>
+<p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-9-kenneth-lowe-fast-track-your-lwm2m-development-with-gemalto-tools)</p>
+
+#### Videos
+* The recorded webinar of this event event can be found in the [OMA Event](http://openmobilealliance.org/event/oma-iot-seminar/) pages.

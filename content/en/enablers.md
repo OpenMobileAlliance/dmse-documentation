@@ -1,5 +1,5 @@
 ---
-title: LwM2M Enablers
+title: Enablers
 description: ''
 position: 2
 category: 'LWM2M'
