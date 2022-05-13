@@ -18,7 +18,7 @@
     "@nuxtjs/axios": "^5.13.5",
     "algoliasearch": "^4.10.2",
     "nuxt": "^2.15.2",
-    "nuxt-youtube-subscribe-module": "^0.1.1",
+    "nuxt-youtube-subscribe-module": "^0.1.2",
     "@docsearch/css": "^1.0.0-alpha.28",
     "@docsearch/js": "^1.0.0-alpha.28"
   },
