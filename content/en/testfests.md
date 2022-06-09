@@ -28,63 +28,63 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Virtual</td>
             <td>Mar/Apr 2021</td>
-            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/6295903/Mar_2021_VTF_Summary_and_Results_v1.0.pdf" target="_blank"> v1.0</a> </br> <a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/6295594/Mar_2021_VTF_Summary_and_Results.pdf" target="_blank"> v1.1</a></td>
+            <td><a href="https://www.openmobilealliance.org/test_events/VTF-39/Mar_2021_VTF_Summary_and_Results_v1.0.pdf" target="_blank"> v1.0</a> </br> <a href="https://www.openmobilealliance.org/test_events/VTF-39/Mar_2021_VTF_Summary_and_Results.pdf" target="_blank"> v1.1</a></td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Virtual</td>
             <td>Apr 2020</td>
-            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/4609228/Virtual_Apr_2020_All_Test_Results.pdf" target="_blank"> v1.1</a></td>
+            <td><a href="https://www.openmobilealliance.org/test_events/VTF-38/Virtual_Apr_2020_All_Test_Results.pdf" target="_blank"> v1.1</a></td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="http://www.tta.or.kr/" target="_blank">TTA</a></td>
             <td>South Korea</td>
             <td>Oct 2019</td>
-            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819151/Korea_Oct_2019_v1_0_Consolidated_Test_Results.pdf" target="_blank"> v1.0</a> </br><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819172/Korea_Oct_2019_v1_1_Consolidated_Test_Results.pdf" target="_blank"> v1.1</a> </td>
+            <td><a href="https://www.openmobilealliance.org/test_events/TF-37/Korea_Oct_2019_v1_0_Consolidated_Test_Results.pdf" target="_blank"> v1.0</a> </br><a href="https://www.openmobilealliance.org/test_events/TF-37/Korea_Oct_2019_v1_1_Consolidated_Test_Results.pdf" target="_blank"> v1.1</a> </td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="http://www.tta.or.kr/" target="_blank">TTA</a></td>
             <td>South Korea</td>
             <td>Jul 2018</td>
-            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267573/Korea_July_2018_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="https://www.openmobilealliance.org/test_events/TF-36/Korea_July_2018_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="https://www.avsystem.com/" target="_blank">Avsystems</a></td>
             <td>Warsaw</td>
             <td>Nov 2017</td>
-            <td><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1517215/Warsaw_Nov_2017_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw_Nov_2017_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="https://www.smithmicro.com/" target="_blank">SmithMicro</a></td>
             <td>Pittsburgh</td>
             <td>May 2017</td>
-            <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1032619/TestFest-Summary-Document.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="https://www.openmobilealliance.org/test_events/TF-34/TestFest-Summary-Document.pdf" target="_blank"> v1.0</a></td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Singapore</td>
             <td>Oct 2016</td>
-            <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/578633/OMA-TestFest-Results-Summary-Singapore.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="https://www.openmobilealliance.org/test_events/TF-33/OMA-TestFest-Results-Summary-Singapore.pdf" target="_blank"> v1.0</a></td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>San Diego</td>
             <td>Jan 2016</td>
-            <td><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/137105/Jan.2016.TestFest.Summary.Document.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="https://www.openmobilealliance.org/test_events/TF-32/Jan.2016.TestFest.Summary.Document.pdf" target="_blank"> v1.0</a></td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td><a href="https://www.vodafone.com/" target="_blank">Vodafone</a></td>
             <td>Düsseldorf</td>
             <td>Jan 2015</td>
-            <td><a href="http://dev_devtoolkit.openmobilealliance.org/IoT/Dusseldorf2015/TestFest%20Summary%20Document.pdf" target="_blank"> v1.0</a></td>
+            <td><a href="https://www.openmobilealliance.org/test_events/TF-31/TestFest%20Summary%20Document.pdf" target="_blank"> v1.0</a></td>
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
     </body>
