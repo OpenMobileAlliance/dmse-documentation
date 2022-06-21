@@ -31,12 +31,12 @@ Below you can read more about each company's product and how it's utilizing LwM2
     </tr>
     <tr>
       <td>TestFest Results</td>
-      <td><p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819248/iii.-.1.0.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Institute for Information Industry v1.0 Client Results (PDF)</a></p>
-      <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3868775/iii.v1.0.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Institute for Information Industry v1.0 Server Results (PDF)</a></p>
-      <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819252/iii.-.1.1.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Institute for Information Industry v1.1 Client Results (PDF)</a></p>
-      <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819464/III.v1.1.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Institute for Information Industry v1.1 Server Results (PDF)</a></p>
-      <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267300/Seoul-2018-Jul-III-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Institute for Information Industry Client Results 1.0 (PDF)</a></p>
-      <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267301/Seoul-2018-Jul-III-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Institute for Information Industry Server Results 1.0 (PDF)</a></p>
+      <td><p><a href="https://www.openmobilealliance.org/test_events/TF-37/iii.-.1.0.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Institute for Information Industry v1.0 Client Results</a></p>
+      <p><a href="https://www.openmobilealliance.org/test_events/TF-37/iii.v1.0.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Institute for Information Industry v1.0 Server Results</a></p>
+      <p><a href="https://www.openmobilealliance.org/test_events/TF-37/iii.-.1.1.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Institute for Information Industry v1.1 Client Results</a></p>
+      <p><a href="https://www.openmobilealliance.org/test_events/TF-37/III.v1.1.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Institute for Information Industry v1.1 Server Results</a></p>
+      <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-III-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Institute for Information Industry v1.0 Client Results</a></p>
+      <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-III-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Institute for Information Industry v1.0 Server Results</a></p>
       </td>
     </tr>
     </tbody>
@@ -64,7 +64,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
     </tr>
     <tr>
       <td>TestFest Results</td>
-      <td><a href= "https://github.com/seanmcilroy29/Public-OMA-Documents/files/2266974/Seoul-2018-Jul-Ahnlab-Client_Results_Posted.pdf" target="_blank">TF Seoul Korea - Jul 2018 - Ahnlab Client Results 1.0 (PDF)</a></td>
+      <td><a href= "https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Ahnlab-Client_Results_Posted.pdf" target="_blank">TF Seoul Korea - Jul 2018 - Ahnlab v1.0 Client Results</a></td>
     </tr>
    </tbody>
 </table>
@@ -99,8 +99,8 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-          <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819708/Altair.Semiconductors.V1.1.-.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Altair - 1.1 Client Results</a></p>
-          <p><a href= "https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509894/Warsaw-2017-Nov_Altair_Semiconductor-Results_Posted.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Altair Semiconductor Client Results 1.0 (PDF)</a></p>
+          <p><a href="https://www.openmobilealliance.org/test_events/TF-37/Altair.Semiconductors.V1.1.-.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Altair - v1.1 Client Results</a></p>
+          <p><a href= "https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Altair_Semiconductor-Results_Posted.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Altair Semiconductor v1.0 Client Results</a></p>
       </td>
     </tr>
     </tbody>
@@ -133,8 +133,8 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/135370/Altiux_Innovations_Client_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - Altiux Innovations Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/135371/Altiux_Innovations_Server_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - Altiux Innovations Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-32/Altiux_Innovations_Client_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - Altiux Innovations v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-32/Altiux_Innovations_Server_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - Altiux Innovations v1.0 Server Results</a></p>
       </td>
     </tr>
     </tbody>
@@ -166,10 +166,10 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href= "https://github.com/seanmcilroy29/Public-OMA-Documents/files/2266929/Seoul-2018-Jul-ARM-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - ARM Server Results 1.0 (PDF)</a></p>
-            <p><a href= "https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509889/Warsaw-2017-Nov-ARM-Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - ARM Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046338/ARM-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - ARM Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046340/ARM-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - ARM Server Results 1.0 (PDF)</a></p>
+            <p><a href= "https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-ARM-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - ARM v1.0 Server Results</a></p>
+            <p><a href= "https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov-ARM-Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - ARM v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/ARM-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - ARM v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/ARM-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - ARM v1.0 Server Results</a></p>
      </td>
     </tr>
   </tbody>
@@ -204,22 +204,22 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
         <td rowspan='2'>TestFest Results</td>
         <td>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/6263809/AVSystem.consolidated.Client.Results.pdf" target="_blank">Virtual TestFest - Mar 2021 - AVSystem 1.1 Client Results</a><p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/6263745/AVSystem.consolidated.Server.Results.pdf" target="_blank">Virtual TestFest - Mar 2021 - AVSystem 1.1 Server Results</a><p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/4609435/AVSystem_1.1_Client.pdf" target="_blank">Virtual TestFest - Apr 2020 - AVSystem - 1.1 Client Results</a></p>
-            <a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3916901/AVSystem.-.1.0.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem 1.0 Server Results<a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3916813/AVSystem.1.1.Server.ALL.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem - 1.1 Server Results</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3916878/AVSystem.v1.0.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem - 1.0 Client Results</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3916841/AVSystem.v1.1.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem - 1.1 Client Results</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2266933/Seoul-2018-Jul-AVSystems-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - AVSystem Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509899/Warsaw-2017-Nov_AVSystems._Client_Posted_Results.pdf" target="_blank">TF Warsaw,Poland - Oct/Nov 2017 -AVSystem Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509906/Warsaw-2017-Nov_AVSystem-Server-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - AVSystem Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046351/AVSystem-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - AVSystem Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046352/AVSystem-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - AVSystem Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/632055/AVSystem-Client-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - AVSystem Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/632057/AVSystem-Server-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - AVSystem Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/136762/AVSystem_Client_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - AVSystem Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/136763/AVSystem_Server_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - AVSystem Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/VTF-39/AVSystem.consolidated.Client.Results.pdf" target="_blank">Virtual TestFest - Mar 2021 - AVSystem v1.1 Client Results</a><p>
+            <p><a href="https://www.openmobilealliance.org/test_events/VTF-39/AVSystem.consolidated.Server.Results.pdf" target="_blank">Virtual TestFest - Mar 2021 - AVSystem v1.1 Server Results</a><p>
+            <p><a href="https://www.openmobilealliance.org/test_events/VTF-38/AVSystem_1.1_Client.pdf" target="_blank">Virtual TestFest - Apr 2020 - AVSystem - v1.1 Client Results</a></p>
+            <a href="https://www.openmobilealliance.org/test_events/TF-37/AVSystem.-.1.0.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem v1.0 Server Results<a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-37/AVSystem.1.1.Server.ALL.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem - v1.1 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-37/AVSystem.v1.0.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem - v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-37/AVSystem.v1.1.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem - v1.1 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-AVSystems-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - AVSystem v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_AVSystems._Client_Posted_Results.pdf" target="_blank">TF Warsaw,Poland - Oct/Nov 2017 -AVSystem v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_AVSystem-Server-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - AVSystem v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/AVSystem-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - AVSystem v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/AVSystem-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - AVSystem v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-33/AVSystem-Client-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - AVSystem v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-33/AVSystem-Server-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - AVSystem v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-32/AVSystem_Client_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - AVSystem v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-32/AVSystem_Server_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - AVSystem v1.0 Server Results</a></p>
         </td>
     </tr>
     </tbody>
@@ -272,7 +272,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046388/Centero-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Centero Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/Centero-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Centero v1.0 Client Results</a></p>
       </td>
     </tr>
     </tbody>
@@ -304,7 +304,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1510344/Warsaw_2017_Nov-Cumulocity-Server-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Cumulocity Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw_2017_Nov-Cumulocity-Server-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Cumulocity v1.0 Server Results</a></p>
       </td>
     </tr>
     </tbody>
@@ -334,11 +334,11 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819463/Ericsson.v1.1.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Ericsson v1.1 Server Results (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267037/Seoul-2018-Jul-Ericsson-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Ericsson Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509921/Warsaw-2017-Nov_Ericsson_Server_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Ericsson Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1046393/Ericsson-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Ericsson Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/620466/Ericsson-Server-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 -  Ericsson Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-37/Ericsson.v1.1.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - Ericsson v1.1 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Ericsson-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Ericsson v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Ericsson_Server_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Ericsson v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/Ericsson-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Ericsson v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-33/Ericsson-Server-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 -  Ericsson v1.0 Server Results</a></p>
       </td>
     </tr>
   </tbody>
@@ -367,7 +367,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509935/Warsaw-2017-Nov_ETRI_Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - ETRI Client Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_ETRI_Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - ETRI v1.0 Client Results </a></p>
       </td>
     </tr>
     </tbody>
@@ -399,8 +399,8 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1510071/Warsaw_2017_Nov-Friendly_Technologies_Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Friendly Technologies Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1510074/Warsaw_2017_Nov-Friendly_Technologies_Server_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Friendly Technologies Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw_2017_Nov-Friendly_Technologies_Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Friendly Technologies v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw_2017_Nov-Friendly_Technologies_Server_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Friendly Technologies v1.0 Server Results</a></p>
       </td>
     </tr>
     </tbody>
@@ -431,12 +431,12 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267087/Seoul-2018-Jul-Gemalto-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Gemalto Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509944/Warsaw-2017-Nov_Gemalto_Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Gemalto Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509940/Warsaw-2017-Nov_Gamalto-Server-Results-Posted.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Gemalto Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048220/Gemalto-Results-Post.pdf" target="_blank">TF  Pittsburgh, USA - May 2017 - Gemalto Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/128334/Gemalto_Client_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - Gemalto Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/128338/Gemalto_Server_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - Gemalto Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Gemalto-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Gemalto v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Gemalto_Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Gemalto v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Gamalto-Server-Results-Posted.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Gemalto v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/Gemalto-Results-Post.pdf" target="_blank">TF  Pittsburgh, USA - May 2017 - Gemalto v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-32/Gemalto_Client_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - Gemalto v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-32/Gemalto_Server_Results_Post.pdf" target="_blank">TF San Diego, USA - Jan 2016 - Gemalto v1.0 Server Results</a></p>
       </td>
     </tr>
   </tbody>
@@ -467,8 +467,8 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267168/Seoul-2018-Jul-Hancom-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Hancom Client Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267169/Seoul-2018-Jul-Hancom-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Hancom Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Hancom-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Hancom v1.0 Client Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Hancom-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Hancom v1.0 Server Results</a></p>
       </td>
     </tr>
     </tbody>
@@ -500,7 +500,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048247/Huawei-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Huawei Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-34/Huawei-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Huawei v1.0 Server Results</a></p>
       </td>
     </tr>
   </tbody>
@@ -535,8 +535,8 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-        <p><a href="https://github.com/OpenMobileAlliance/OMA-Public-Documents/files/1053552/InterDigital-Server-Aggregated-Results.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Interdigital Server Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/OpenMobileAlliance/OMA-Public-Documents/files/1053549/InterDigital-Client-Aggregated-Results.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Interdigital Client Results 1.0 (PDF)</a></p>
+        <p><a href="https://github.com/OpenMobileAlliance/OMA-Public-Documents/files/1053552/InterDigital-Server-Aggregated-Results.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Interdigital v1.0 Server Results</a></p>
+        <p><a href="https://github.com/OpenMobileAlliance/OMA-Public-Documents/files/1053549/InterDigital-Client-Aggregated-Results.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Interdigital v1.0 Client Results</a></p>
       </td>
     </tr>
   </tbody>
@@ -564,16 +564,16 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/4609515/IoTerop_1.1_Client_Results.pdf" target="_blank">Virtual TF - Apr 2020 - IoTerop Client v1.1 Results (PDF)</a></p> 
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/4609559/IoTerop_1.1_Server_Results.pdf" target="_blank">Virtual TF - Apr 2020 - IoTerop Server v1.1 Results (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819260/IoTerop.v1.1.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - IOTEROP Client v1.1 Results (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3880418/IoTerop.Server.1.1.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - IOTEROP Server v1.1 Results (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267346/Seoul-2018-Jul-IOTerop-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - IOTEROP Client Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509950/Warsaw-2017-Nov_INTEROP-Client-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - IOTEROP Client Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509952/Warsaw-2017-Nov_IoTerop-Server-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - IOTEROP Server Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048285/IoTerop-Results-Post.pdf" target="_blank">TF  Pittsburgh, USA - May 2017 - IOTEROP Client Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/620493/IOTEROP-Server-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - IOTEROP Server Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/620494/IOTEROP-Client-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - IOTEROP Client Results 1.0 (PDF)</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/VTF-38/IoTerop_1.1_Client_Results.pdf" target="_blank">Virtual TF - Apr 2020 - IoTerop v1.1 Client Results</a></p> 
+        <p><a href="https://www.openmobilealliance.org/test_events/VTF-38/IoTerop_1.1_Server_Results.pdf" target="_blank">Virtual TF - Apr 2020 - IoTerop v1.1 Server Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-37/IoTerop.v1.1.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - IOTEROP v1.1 Client Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-37/IoTerop.Server.1.1.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - IOTEROP v1.1 Server Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-IOTerop-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - IOTEROP v1.0 Client Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_INTEROP-Client-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - IOTEROP v1.0 Client Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_IoTerop-Server-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - IOTEROP v1.0 Server Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-34/IoTerop-Results-Post.pdf" target="_blank">TF  Pittsburgh, USA - May 2017 - IOTEROP v1.0 Client Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-33/IOTEROP-Server-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - IOTEROP v1.0 Server Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-33/IOTEROP-Client-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - IOTEROP v1.0 Client Results</a></p>
       </td>
     </tr>
     </tbody>
@@ -607,10 +607,10 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267400/Seoul-2018-Jul-Konas-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Konas Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267399/Seoul-2018-Jul-Konas-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Konas Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509956/Warsaw-2017-Nov_KONAS-Client-Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Konas Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509957/Warsaw-2017-Nov_Konas_Server_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Konas Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Konas-Client_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Konas v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Konas-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Konas v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_KONAS-Client-Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Konas v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Konas_Server_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Konas v1.0 Server Results</a></p>
       </td>
     </tr>
   </tbody>
@@ -636,7 +636,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267515/Seoul-2018-Jul-Kookmin.University-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Kookmin University Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Kookmin.University-Server_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Kookmin University v1.0 Server Results</a></p>
       </td>
     </tr>
    </tbody>
@@ -695,8 +695,8 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
         <td>TestFest Results</td>
         <td>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048309/MDS-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - MDS Technology Server Results 1.0 (PDF)</a></p> 
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/632040/MDS-Client-Results-Post.pdf" target="_blank">TF Singapore - May 2016 - MDS Client Results 1.0 (PDF)</a></p>          
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/MDS-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - MDS Technology v1.0 Server Results</a></p> 
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-33/MDS-Client-Results-Post.pdf" target="_blank">TF Singapore - Oct 2016 - MDS v1.0 Client Results</a></p>
         </td>
     </tr>
   </tbody>
@@ -728,9 +728,9 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/3819467/Nokia.v1.1.Server.Results.pdf" target="_blank">TF Seoul Korea Oct 2019 - Nokia Server v1.1 Results (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/2267529/Seoul-2018-Jul-Nokia-Servewr_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Nokia Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1513726/Warsaw_2017_Nov_Nokia._Server_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Nokia Server Results 1.0 (PDF)</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-37/Nokia.v1.1.Server.Results.pdf" target="_blank">TF Seoul Korea Oct 2019 - Nokia v1.1 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-36/Seoul-2018-Jul-Nokia-Servewr_Results_Posted.pdf" target="_blank">TF Seoul, Korea - Jul 2018 - Nokia v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw_2017_Nov_Nokia._Server_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Nokia v1.0 Server Results</a></p>
       </td>
     </tr>
   </tbody>
@@ -761,10 +761,10 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-            <a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509963/Warsaw-2017-Nov_Smith_Micro_Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Smith Micro Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509965/Warsaw-2017-Nov_Smith_Micro_Server-Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Smith Micro Server Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048327/SmithMicro-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Smith Micro Client Results 1.0 (PDF)</a></p>
-            <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048328/SmithMicro-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Smith Micro Server Results 1.0 (PDF)</a></p>
+            <a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Smith_Micro_Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Smith Micro v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Smith_Micro_Server-Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Smith Micro v1.0 Server Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/SmithMicro-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Smith Micro v1.0 Client Results</a></p>
+            <p><a href="https://www.openmobilealliance.org/test_events/TF-34/SmithMicro-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Smith Micro v1.0 Server Results</a></p>
       </td>
     </tr>
   </tbody>
@@ -796,10 +796,10 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509979/Warsaw-2017-Nov_Telit-Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Telit Client Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/seanmcilroy29/Public-OMA-Documents/files/1509976/Warsaw-2017-Nov_Telit-Server-Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Telit Server Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048341/Telit-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Telit Client Results 1.0 (PDF)</a></p>
-        <p><a href="https://github.com/Megan-OMA/Public-OMA-Documents/files/1048343/Telit-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Telit Server Results 1.0 (PDF)</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Telit-Client_Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Telit v1.0 Client Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw-2017-Nov_Telit-Server-Posted_Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Telit v1.0 Server Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-34/Telit-Client-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Telit v1.0 Client Results</a></p>
+        <p><a href="https://www.openmobilealliance.org/test_events/TF-34/Telit-Server-Results-Post.pdf" target="_blank">TF Pittsburgh, USA - May 2017 - Telit v1.0 Server Results</a></p>
       </td>
     </tr>
     </tbody>
