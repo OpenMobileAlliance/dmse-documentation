@@ -16,6 +16,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
 <table>
     <thead>
         <tr>
+            <th>TF Event</th>
             <th>Host</th>
             <th>Location</th>
             <th>Dates</th>
@@ -25,6 +26,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
     </thead>
     <tbody>
         <tr>
+            <td>VTF-39</td>
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Virtual</td>
             <td>Mar/Apr 2021</td>
@@ -32,6 +34,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
+            <td>VTF-38</td>
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Virtual</td>
             <td>Apr 2020</td>
@@ -39,6 +42,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
+            <td>TF-37</td>
             <td><a href="http://www.tta.or.kr/" target="_blank">TTA</a></td>
             <td>South Korea</td>
             <td>Oct 2019</td>
@@ -46,6 +50,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
+            <td>TF-36</td>
             <td><a href="http://www.tta.or.kr/" target="_blank">TTA</a></td>
             <td>South Korea</td>
             <td>Jul 2018</td>
@@ -53,6 +58,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
+            <td>TF-35</td>
             <td><a href="https://www.avsystem.com/" target="_blank">Avsystems</a></td>
             <td>Warsaw</td>
             <td>Nov 2017</td>
@@ -60,6 +66,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
+            <td>TF-34</td>
             <td><a href="https://www.smithmicro.com/" target="_blank">SmithMicro</a></td>
             <td>Pittsburgh</td>
             <td>May 2017</td>
@@ -67,6 +74,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
+            <td>TF-33</td>
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Singapore</td>
             <td>Oct 2016</td>
@@ -74,6 +82,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
+            <td>TF-32</td>
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>San Diego</td>
             <td>Jan 2016</td>
@@ -81,6 +90,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
+            <td>TF-31</td>
             <td><a href="https://www.vodafone.com/" target="_blank">Vodafone</a></td>
             <td>Düsseldorf</td>
             <td>Jan 2015</td>
