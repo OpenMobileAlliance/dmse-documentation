@@ -543,7 +543,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
 </table>
 
 
-## IoTErop
+## IoTerop
 
 <table>
   <thead>
