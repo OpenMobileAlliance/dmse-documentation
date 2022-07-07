@@ -59,7 +59,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
         </tr>
         <tr>
             <td>TF-35</td>
-            <td><a href="https://www.avsystem.com/" target="_blank">Avsystems</a></td>
+            <td><a href="https://www.avsystem.com/" target="_blank">AVSystem</a></td>
             <td>Warsaw</td>
             <td>Nov 2017</td>
             <td><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw_Nov_2017_All_Test_Results.pdf" target="_blank"> v1.0</a></td>
