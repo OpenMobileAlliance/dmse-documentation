@@ -31,7 +31,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td>Virtual</td>
             <td>Mar/Apr 2021</td>
             <td><a href="https://www.openmobilealliance.org/test_events/VTF-39/Mar_2021_VTF_Summary_and_Results_v1.0.pdf" target="_blank"> v1.0</a> </br> <a href="https://www.openmobilealliance.org/test_events/VTF-39/Mar_2021_VTF_Summary_and_Results.pdf" target="_blank"> v1.1</a></td>
-            <td><a href="./listing" target="_blank"><img src="./page.png"  alt="Product Listing Webpage"></a></td>
+            <td><a href="/listing" target="_blank"><img src="page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
             <td>VTF-38</td>
