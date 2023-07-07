@@ -26,7 +26,9 @@ export default theme({
       plugins: [["@babel/plugin-proposal-private-methods", { loose: true }]],
     },
   },
-
+  plugins: [
+    '~~/plugins/gtag',
+  ],
   linkedin: {
     partnerId: "3701497",
     disabled: false,
