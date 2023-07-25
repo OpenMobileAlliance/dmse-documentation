@@ -736,6 +736,38 @@ Below you can read more about each company's product and how it's utilizing LwM2
   </tbody>
 </table>
 
+## Paradox Engineering SA
+<table>
+  <thead>
+    <tr>
+      <td rowspan="2"><img src="https://github.com/OpenMobileAlliance/dmse-documentation/assets/19475071/03b6da1b-b8c6-464a-9bc2-a0db7766d6a7"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paradox Engineering SA</td>
+      <td><a href="https://www.pdxeng.ch//" target="_blank">www.pdxeng.ch</a></td>
+    </tr>
+    <tr>
+      <td>QuickLink IoT Services Platform</td>
+      <td><a href="" target="_blank"></a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>
+        <p>PE designs and develops PE Smart Urban Network, an end-to-end HW and SW network platform enabling open and interoperable Smart Cities thanks to the integration of OMA Lightweight M2M stack and multiple built-in data models, such as IPSO Smart Objects and uCIFI data model. The codebase is fully maintained and kept up-to-date with standard evolution.</p>
+        <p>With PE Smart Urban Network, advocating openness and the highest built-in security at its core since its very inception, PE pioneers IoT for Smart Cities: as part of the MinebeaMitsumi Group, it firmly leads the Group’s innovation in IoT.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+            <a href="https://www.openmobilealliance.org/test_events/VTF-39/" target="_blank">Virtual TestFest - Mar 2021 - AVSystem v1.1 Client Results</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Smith Micro
 <table>
   <thead>
