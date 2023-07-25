@@ -740,7 +740,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
 <table>
   <thead>
     <tr>
-      <td rowspan="2"><img src="https://github.com/OpenMobileAlliance/dmse-documentation/assets/19475071/03b6da1b-b8c6-464a-9bc2-a0db7766d6a7"></td>
+      <td rowspan="2"><img width="120px" src="https://github.com/OpenMobileAlliance/dmse-documentation/assets/19475071/03b6da1b-b8c6-464a-9bc2-a0db7766d6a7"></td>
     </tr>
   </thead>
   <tbody>
