@@ -118,37 +118,37 @@ LwM2M's services and objects reinforce its suitability for utilities:
     </thead>
     <tbody>
         <tr>
-           <td>Device Information ObjID: 3</td>
+           <td>Device Information ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F3.xml" target="_blank">#3</a></td>
            <td><b>Device Identity</b>: Ensures device authenticity, simplifying inventory management.</td>
            <td>Accurate device information streamlines maintenance.</td>
         </tr>
         <tr>
-           <td>Connectivity Monitoring </br>ObjID: 4</td>
+           <td>Connectivity Monitoring </br>ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F4.xml" target="_blank">#4</a></td>
            <td><b>Real-time Monitoring</b>: Proactively detects connectivity issues, minimizing downtime.</td>
            <td>Timely issue resolution reduces service disruptions.</td>
         </tr>
         <tr>
-           <td>Firmware Update ObjID: 5</td>
+           <td>Firmware Update </br>ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F5.xml" target="_blank">#5</a></td>
            <td><b>Remote Updates</b>: Effortlessly updates LTE modem firmware, reducing field visits.</td>
            <td>Remote updates minimize physical access costs.</td>
         </tr>
         <tr>
-           <td>Software Management ObjID: 9</td>
+           <td>Software Management ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F9.xml" target="_blank">#9</a></td>
            <td><b>Efficient Software Updates</b>: Facilitates remote software updates, enhancing functionality.</td>
            <td>Automated updates reduce manual intervention expenses.</td>
         </tr>
          <tr>
-            <td>Binary App Data Container </br>ObjID: 19</td>
+            <td>Binary App Data Container </br>ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F19.xml" target="_blank">#19</a></td>
             <td><b>Binary App Data container</b>: A generic container for applications.</td>
             <td>Transport your data to suit a wide range of applications.</td>
          </tr>
         <tr>
-            <td>LTE-MTC Band Config </br>ObjID: 501</td>
+            <td>LTE-MTC Band Config </br>ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F501.xml" target="_blank">#501</a></td>
             <td><b>LTE Band Configuration</b>: Allows to fine tune the LTE connectivity parameter.</td>
             <td>Construct the optimal power budget for the device's lifespan and adjust to evolving situations.</td>
          </tr>
         <tr>
-           <td>Remote SIM Prov. ObjID: 504</td>
+           <td>Remote SIM Prov. ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F504.xml" target="_blank">#504</a></td>
            <td><b>Remote SIM Provisionning</b>: Facilitates remote SIM profile updates, supports network migration, remove risk of stranded assets.</td>
            <td>Enables the choice of the most optimal networks, switching as better options become available or prioritizing those with the lowest power consumption to benefit the device's lifespan.</td>
         </tr>
