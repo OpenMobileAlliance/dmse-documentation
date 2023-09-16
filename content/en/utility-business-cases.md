@@ -22,7 +22,7 @@ South East Water Corporation operates within the water utility sector and manage
 - Improve real-time monitoring and reporting of water-related parameters.
 - Enhance responsiveness to alarms and anomalies within the water distribution network.
 
-## LightweightM2M (LwM2M) Water Utility Objects
+## LwM2M Water Utility Objects
 South East Water Corporation created and registered with OMA Naming Authority (OMNA) a set of LwM2M Water Utility Objects, categorized based on LwM2M primary capabilities:
 
 ### Data Delivery Objects:
