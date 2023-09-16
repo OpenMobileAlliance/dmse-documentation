@@ -15,7 +15,7 @@ It begins with key points to position OMA LwM2M and ends by addressing utilities
 
 OMA Utility Outreach will develop from it whitepapers, blogs, and social media posts. These resources can be employed as compelling selling points while engaging with utility companies.
 
-## Key Position OMA LwM2M
+## OMA LwM2M Key Position Points
  
 By effectively positioning the OMA LightweightM2M Protocol using these key points, the Utility Outreach WG could communicate its value proposition to Utilities, showcasing how it aligns with their requirements and addresses industry challenges:
  
