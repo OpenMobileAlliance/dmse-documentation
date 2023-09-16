@@ -8,7 +8,7 @@ category: Utility
 <alert><p style="color:DodgerBlue;">Download the White Paper: <a href="" target="_blan">OTA Smartmeters Management</a></p></alert>
  
 
-## OTA SmartMeter Management
+## OTA Smart Meter Management
 
 *LwM2M a suitable Protocol for Secure Over-the-Air Electricity Meter Management*
 
