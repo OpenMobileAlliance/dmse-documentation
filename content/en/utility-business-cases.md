@@ -66,11 +66,14 @@ South East Water Corporation created and registered with OMA Naming Authority (O
 South East Water Corporation's development and implementation of LightweightM2M (LwM2M) Water Utility Objects represent a significant advancement in water utility management. These standardized objects offer efficient data management, real-time monitoring, and proactive alarm capabilities, ultimately improving service quality and resource utilization. Adopting LwM2M has positioned South East Water Corporation as a leader in the water utility industry, setting the standard for reliable and efficient water distribution and management.
 
 ## About
+### OMA
 ***About Open Mobile Alliance (OMA):**
 The Open Mobile Alliance (OMA) is a leading standards organization dedicated to developing open and interoperable standards for mobile and wireless technologies. Established by industry leaders, OMA's mission is to drive innovation in mobile communication by creating a framework of standards that promote the seamless integration of various mobile services, devices, and networks. With a focus on ensuring global interoperability and enhancing the mobile user experience, OMA collaborates with industry stakeholders to define standards and best practices that shape the future of mobile technology.*
 
+### OMNA
 ***About Open Mobile Alliance Naming Authority (OMNA):**
 The Open Mobile Alliance Naming Authority (OMNA) is a vital component of the Open Mobile Alliance (OMA) ecosystem. OMNA is responsible for managing and overseeing the allocation of unique identifiers, including Object IDs and URIs (Uniform Resource Identifiers), within the context of OMA standards. These identifiers are critical in ensuring the integrity and compatibility of OMA's standards and specifications across diverse mobile and IoT (Internet of Things) devices and services. OMNA's role is essential in maintaining the order and consistency of OMA's standards, fostering interoperability, and facilitating the growth of the mobile and IoT industries.*
 
+### LwM2M
 ***About OMA LightweightM2M (LwM2M):**
 OMA LightweightM2M (LwM2M) is a specialized protocol developed by the Open Mobile Alliance (OMA) to address the unique requirements of managing Internet of Things (IoT) and Machine-to-Machine (M2M) devices. LwM2M is designed to provide efficient and standardized communication between resource-constrained IoT devices and management platforms. It offers features such as device registration, remote firmware updates, data reporting, and configuration management, making it an ideal choice for managing IoT deployments. LwM2M's lightweight and efficient nature ensures that even devices with limited processing power and memory can benefit from standardized and secure device management, contributing to the scalability and reliability of IoT solutions.*
