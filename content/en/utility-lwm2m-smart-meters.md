@@ -144,18 +144,18 @@ In the dynamic landscape of utility management, the LightweightM2M (LwM2M) proto
         </tr>
          <tr>
             <td>Binary App Data Container </br>ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F19.xml" target="_blank">#19</a></td>
-            <td><b>Binary App Data container</b>: A generic container for applications.</td>
-            <td>Transport your data to suit a wide range of applications.</td>
+            <td><b>Binary App Data container</b>: A generic container for applications. It is used to stored binary data related to applications, facilitating efficient management and exchange of such data in IoT and M2M scenarios.</td>
+            <td>Transport your data to suit a wide range of applications. Enables utilities to reduce operating costs by efficiently managing binary data, leading to lower storage, bandwidth, and maintenance expenses, ultimately enhancing cost-effectiveness in the utility sector.</td>
          </tr>
         <tr>
             <td>LTE-MTC Band Config </br>ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F501.xml" target="_blank">#501</a></td>
-            <td><b>LTE Band Configuration</b>: Allows to fine tune the LTE connectivity parameter.</td>
-            <td>Construct the optimal power budget for the device's lifespan and adjust to evolving situations.</td>
+            <td><b>LTE Band Configuration</b>: Allows to fine tune the LTE connectivity parameter. It is used to configure the cellular band used by the device as well as to change the band. It is intended to be used on LTE bands, as in NB-IoT and LTE Cat M1 frequency bands.</td>
+            <td>Construct the optimal power budget for the device's lifespan and adjust to evolving situations. This object empowers utilities to make informed choices about their IoT device communication, leading to reduced operating costs through enhanced efficiency, reduced manual intervention, and improved data quality. It aligns with the industry's goal of optimizing operations while maintaining reliable service delivery.</td>
          </tr>
         <tr>
            <td>Remote SIM Prov. ObjID: <a href="http://devtoolkit.openmobilealliance.org/OEditor/LWMOView?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenMobileAlliance%2Flwm2m-registry%2Fprod%2F504.xml" target="_blank">#504</a></td>
-           <td><b>Remote SIM Provisionning</b>: Facilitates remote SIM profile updates, supports network migration, remove risk of stranded assets.</td>
-           <td>Enables the choice of the most optimal networks, switching as better options become available or prioritizing those with the lowest power consumption to benefit the device's lifespan.</td>
+           <td><b>Remote SIM Provisioning</b>: Facilitates remote SIM profile updates, supports network migration, remove risk of stranded assets.</td>
+           <td>Enables the choice of the most optimal networks, switching as better options become available or prioritizing those with the lowest power consumption to benefit the device's lifespan. It empowers utilities to streamline SIM card management, optimize network usage, enhance security, and reduce downtime.</td>
         </tr>
     </tbody>
  </table>
