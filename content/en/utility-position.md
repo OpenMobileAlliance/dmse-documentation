@@ -5,8 +5,15 @@ position: 100
 category: Utility
 ---
 
-<alert><p style="color:DodgerBlue;">Download the White Paper: <a href="" target="_blank">Unlocking Efficiency in Utility Operations with OMA LightweightM2M Protocol</a></p></alert>
- 
+<alert>
+  <p style="color:DodgerBlue;">
+    Download the White paper:
+    <a target="_blank" href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/84043e8/utility-position/[OMA-UO]-UO-LwM2M-Positioning-V1_0_0-20230921-D_full.pdf">
+      Unlocking Efficiency in Utility Operations with OMA LightweightM2M Protocol
+    </a>
+  </p>
+</alert>
+
 *Empowering Utilities with Interoperability for a Smoother Tomorrow*
 ## Background
 This document's primary objective is to serve as a foundational guide for the OMA Utility Outreach WG in crafting a messaging for Utility.

@@ -5,8 +5,7 @@ position: 150
 category: Utility
 ---
 
-<alert><p style="color:DodgerBlue;">Download the White Paper: <a href="" target="_blan">OTA Smartmeters Management</a></p></alert>
- 
+<alert><p style="color:DodgerBlue;">Download the White Paper: <a href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/84043e8/utility-lwm2m-sm/[OMA-UO]-UO-LwM2M-&-Smart-Meters-V1_0_0-20230921-D_full.pdf" target="_blank">OTA Smartmeters Management</a></p></alert>
 
 ## OTA Smart Meter Management
 
@@ -111,7 +110,10 @@ In today's rapidly evolving landscape of IoT (Internet of Things) and utility ma
 ### LwM2M Objects
 In the dynamic landscape of utility management, the LightweightM2M (LwM2M) protocol introduces a spectrum of Object IDs, each tailored to enhance operational efficiency and significantly reduce operating costs. This comprehensive table explores various LwM2M Object IDs, their functionalities, and how they play a pivotal role in cost optimization for utility organizations. From ensuring device authenticity to streamlining software and SIM card management, LwM2M empowers utilities to proactively manage their assets, minimize downtime, and make informed choices that lead to substantial cost savings. These Object IDs align with the industry's goal of achieving operational excellence while maintaining the reliability of service delivery, making them invaluable tools in the utility sector's pursuit of cost-effectiveness and efficiency.
 
-<alert>Note: To see a detailed list of all the Standardized LwM2M Objects, please refer to <a href:="https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html">OMNA LwM2M Registry</a>.</alert>
+<alert>
+  Note: To see a detailed list of all the Standardized LwM2M Objects, please refer to 
+  <a target="_blank" href="https://technical.openmobilealliance.org/OMNA/LwM2M/LwM2MRegistry.html">OMNA LwM2M Registry.</a>
+</alert>
 
 <table>
     <thead>
