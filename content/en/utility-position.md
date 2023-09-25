@@ -1,5 +1,5 @@
 ---
-title: Unlocking Utilities Benefits
+title: Utilities Benefits
 description: '"White Paper." It serves as a comprehensive guide and informational resource focused on the OMA LightweightM2M Protocol and its applications in the utility sector.'
 position: 100
 category: Utility

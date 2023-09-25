@@ -1,5 +1,5 @@
 ---
-title: Unlocking Utilties Savings
+title: Utilties Savings
 description: 'This page explains how LwM2M mitages the problems encountered by the Utility Industrys'
 position: 150
 category: Utility
