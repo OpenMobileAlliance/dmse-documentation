@@ -5,6 +5,8 @@ position: 100
 category: Utility
 ---
 
+White Paper: **Unlocking Utilities Benefits: Leveraging OMA LwM2M for Field Area Management in the Utility Ecosystem**
+
 <alert>
   <p style="color:DodgerBlue;">
     Download the White paper:
