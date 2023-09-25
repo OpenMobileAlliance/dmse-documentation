@@ -1,10 +1,10 @@
 ---
-title: LwM2M & Utilities
+title: Unlocking Utilities Benefits
 description: '"White Paper." It serves as a comprehensive guide and informational resource focused on the OMA LightweightM2M Protocol and its applications in the utility sector.'
 position: 100
 category: Utility
 ---
-White Paper: _**Unlocking Utility Benefits: Leveraging OMA LwM2M for Field Area Mastery in the Utility Ecosystem**_
+White Paper: _**Unlocking Utilities Benefits: Leveraging OMA LwM2M for Field Area Mastery in the Utility Ecosystem**_
 
 <alert>
   <p style="color:DodgerBlue;">
