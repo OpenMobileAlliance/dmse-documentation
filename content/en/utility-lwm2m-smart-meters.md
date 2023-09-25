@@ -1,13 +1,14 @@
 ---
-title: Utilties Savings
+title: Utilities Savings
 description: 'This page explains how LwM2M mitages the problems encountered by the Utility Industrys'
 position: 150
 category: Utility
 ---
 
-<alert><p style="color:DodgerBlue;">Download the White Paper: <a href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/84043e8/utility-lwm2m-sm/[OMA-UO]-UO-LwM2M-&-Smart-Meters-V1_0_0-20230921-D_full.pdf" target="_blank">OTA Smartmeters Management</a></p></alert>
+<alert><p style="color:DodgerBlue;">Download the White Paper: <a href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/84043e8/utility-lwm2m-sm/[OMA-UO]-UO-LwM2M-&-Smart-Meters-V1_0_0-20230921-D_full.pdf" target="_blank">Unlocking Utilities Savings: LwM2M for Utilities Meter Management</a></p></alert>
 
-## Unlocking Savings: LwM2M for Utilities Meter Management
+
+## Introduction
 
 *LwM2M a suitable Protocol for Secure Over-the-Air Meter Management*
 

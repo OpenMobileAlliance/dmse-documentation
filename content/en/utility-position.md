@@ -4,19 +4,20 @@ description: '"White Paper." It serves as a comprehensive guide and informationa
 position: 100
 category: Utility
 ---
-### White Paper: _**Unlocking Utilities Benefits: Leveraging OMA LwM2M for Field Area Management in the Utility Ecosystem**_
 
 <alert>
   <p style="color:DodgerBlue;">
     Download the White paper:
     <a target="_blank" href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/84043e8/utility-position/[OMA-UO]-UO-LwM2M-Positioning-V1_0_0-20230921-D_full.pdf">
-      Unlocking Efficiency in Utility Operations with OMA LightweightM2M Protocol
+      Unlocking Utilities Benefits: Leveraging OMA LwM2M for Field Area Management in the Utility Ecosystem
     </a>
   </p>
 </alert>
 
 
 ## Introduction
+*Efficiency, Security, and Cost Savings Through OMA LwM2M*
+
 This document's primary objective is to serve as a foundational guide for the OMA Utility Outreach WG in crafting a messaging for Utility.
 
 It begins with key points to position OMA LwM2M and ends by addressing Utility pain points and how LwM2M helps.
