@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: 'This section introduces the next two'
+description: 'This section introduces the two white papers'
 position: 95
 category: Utility
 ---
