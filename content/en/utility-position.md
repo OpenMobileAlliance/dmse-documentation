@@ -10,10 +10,8 @@ White Paper: **Unlocking Utilities Benefits: Leveraging OMA LwM2M for Field Area
 <alert>
   <p style="color:DodgerBlue;">
     Download the White paper:
-    <a target="_blank" href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/84043e8/utility-position/[OMA-UO]-UO-LwM2M-Positioning-V1_0_0-20230921-D_full.pdf">
-      Unlocking Utilities Benefits: Leveraging OMA LwM2M for Field Area Management in the Utility Ecosystem
-    </a>
-  </p>
+    <a target="_blank" href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/7dfb43e/utility-position/OMA-UO-Utilities-Benefits-20231001-A_full.pdf">
+      Unlocking Utilities Benefits: Leveraging OMA LwM2M for Field Area Management in the Utility Ecosystem</a></p>
 </alert>
 
 
