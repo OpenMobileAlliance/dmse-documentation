@@ -1,5 +1,5 @@
 ---
-title: Metering Use Case
+title: WP - Metering Use Case
 description: 'This page explains how LwM2M mitages the problems encountered by the Utility Industrys'
 position: 150
 category: Utility
