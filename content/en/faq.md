@@ -6,6 +6,8 @@ category: Utility
 ---
 ## Q&A on Utilities & LwM2M
 
+<alert><p style="color:DodgerBlue;">Download the these Q&As: <a href="" target="_blank">Utilities and LwM2M Frequent Asked Questions (FAQs)</a></p></alert>
+
 ### What is LwM2M
 **1.- What is Open Mobile Alliance (OMA) LightweightM2M (LwM2M) Protocol, and how does it benefit utility meter management?**
 
