@@ -15,7 +15,7 @@ Welcome to the *Unlocking Utility Benefits with LwM2M* workshop, a one-hour deep
 
 *Time:* 08:30 am PST
 
-*Registration:* <a href="http://21247113.hs-sites.com/iot-for-utilities-workshop-2?hs_preview=SMCQlrGO-137347060234" target="_blank"><strong>Register Here</strong></a>
+*Registration:* <a href="http://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m" target="_blank"><strong>Workshop Registration</strong></a>
 
 ### Previous Workshops
 
@@ -31,7 +31,7 @@ Welcome to the *Unlocking Utility Benefits with LwM2M* workshop, a one-hour deep
     <tr>
         <td><strong>Unlocking Utility Benefits with LwM2M</strong></td> 
         <td>15-Nov-23 | 08:30 PDT</td> 
-        <td><a href="http://21247113.hs-sites.com/iot-for-utilities-workshop-2?hs_preview=SMCQlrGO-137347060234" target="_blank"> Register Here</a></td>
+        <td><a href="http://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m" target="_blank"> Register Here</a></td>
     </tr>
     <tr>
         <td><strong>Calling All Public Utilities Deploying IoT Connectivity</strong></td> 
