@@ -30,7 +30,7 @@ Welcome to the *Unlocking Utility Benefits with LwM2M* workshop, a one-hour deep
 <tbody>
     <tr>
         <td><strong>Unlocking Utility Benefits with LwM2M</strong></td> 
-        <td>15-Nov-23 | 08:30 PDT</td> 
+        <td>15-Nov-23 | 08:30 a.m. PDT</td> 
         <td><a href="http://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m" target="_blank"> Register Here</a></td>
     </tr>
     <tr>
