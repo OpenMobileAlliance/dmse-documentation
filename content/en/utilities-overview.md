@@ -5,7 +5,7 @@ position: 95
 category: Utility
 ---
 
-The Open Mobile Alliance (OMA) has written these two white papers, <a href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/aa9ce65/utility-position/OMA-UO-Utilities-Benefits-20231001-A_full.html" target="_blank">Unlocking Utility Benefits: Leveraging OMA LwM2M for Field Area Management in the Utility Ecosystem</a> and <a href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/aa9ce65/utility-lwm2m-sm/OMA-UO-Metering-Use-Case-20231001-A_full.html" target="_blank">Unlocking Utilities Savings: LwM2M for Utilities Meter Management</a>, with a clear reasons and purpose in mind:
+The Open Mobile Alliance (OMA) has written these two white papers, <a href="/utility-position" target="_blank">Unlocking Utility Benefits: Leveraging OMA LwM2M for Field Area Management in the Utility Ecosystem</a> and <a href="/utility-lwm2m-smart-meters" target="_blank">Unlocking Utilities Savings: LwM2M for Utilities Meter Management</a>, with a clear reasons and purpose in mind:
 
 ### Adoption
 **Bringing LwM2M to the Forefront:** One of the primary reasons for these white papers is to promote the adoption and understanding of the OMA LightweightM2M (LwM2M) protocol within the utility industry. LwM2M is a powerful protocol that can bring significant benefits to utilities, but it may not be widely known or understood within the sector. These white papers aim to raise awareness about the protocol's capabilities and how it can address utility-specific challenges.
