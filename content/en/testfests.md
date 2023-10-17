@@ -27,7 +27,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
     <tbody>
         <tr>
             <td>SVE-40</td>
-            <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
+            <td><a href="https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2" target="_blank">Register</a></td>
             <td>Virtual</td>
             <td>Nov 2023</td>
             <td><a href="" target="_blank"></a> </br> <a href="" target="_blank"></a></td>
