@@ -26,6 +26,14 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
     </thead>
     <tbody>
         <tr>
+            <td>SVE-40</td>
+            <td><a href="https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2" target="_blank">Register</a></td>
+            <td>Virtual</td>
+            <td>Nov 2023</td>
+            <td><a href="" target="_blank"></a> </br> <a href="" target="_blank"></a></td>
+            <td><a href="/listing" target="_blank"><img src="/page.png"  alt="Product Listing Webpage"></a></td>
+        </tr>
+        <tr>
             <td>VTF-39</td>
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Virtual</td>
@@ -292,7 +300,7 @@ The material presented during the Workshop can be found below:
 <p>Presentation Title: “oneM2M interworking and semantics framework”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-1-dr-omar-elloumi-onem2m-interworking-and-semanitcs-framework)</p>
 
-* **Nicolas Damour** Senior Manager, Business and Innovation Development, Sierra Wireless  
+* **Nicolas Damour** Senior Manager, Business and Innovation Development, Sierra Wireless 
 <p>Presentation Title: “Close Encounters of the Seventh Kind”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-2-nicolas-damour-close-encounters-of-the-seventh-kind)</p>
 
@@ -316,7 +324,7 @@ The material presented during the Workshop can be found below:
 <p>Presentation Title: “LwM2M Developer Toolkit”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-7-joaquin-prado-oma-developer-toolkit)</p>
 
-* **Amit Shah** VP, IOT R&D  Company, Alcatel-Lucent
+* **Amit Shah** VP, IOT R&D Company, Alcatel-Lucent
 <p>Presentation Title: “Certifying, Securing and Managing things”</p>
 <p>[Click here to download the slides](http://www.slideshare.net/OpenMobileAlliance/iot-seminar-jan-2016-8-amit-shah-certifying-security-and-managing-things)</p>
 
