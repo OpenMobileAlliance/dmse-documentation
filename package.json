@@ -19,7 +19,7 @@
     "@nuxt/content-theme-docs": "^0.11.1",
     "@nuxtjs/axios": "^5.13.5",
     "algoliasearch": "^4.13.1",
-    "nuxt": "^2.15.2",
+    "nuxt": "^3.0.0",
     "nuxt-youtube-subscribe-module": "^0.1.2",
     "vue-gtag": "^1.16.1"
   },
