@@ -378,23 +378,59 @@ Below you can read more about each company's product and how it's utilizing LwM2
 <table>
   <thead>
     <tr>
-      <td rowspan="2"><img src="https://user-images.githubusercontent.com/8318213/33322200-641506c8-d440-11e7-807c-252e93c92697.JPG"></td>
+      <td rowspan="2"><img src="https://friendly-tech.com/wp-content/uploads/2022/02/friendly_logo_2022.big_.RGB_.png"></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Friendly Technology</td>
+      <td>Friendly Technologies LTD</td>
       <td><a href="http://www.friendly-tech.com" target="_blank">http://www.friendly-tech.com</a></td>
     </tr>
     <tr>
-      <td>Friendly's One-IoT™ Management Platform</td>
+      <td>Friendly's One-IoT™ Device Management Platform</td>
       <td><a href="https://www.friendly-tech.com/products/internet-of-things-management-server" target="_blank">https://www.friendly-tech.com/products/internet-of-things-management-server</a></td>
     </tr>
     <tr>
-      <td>More Product Information</td>
+      <td>Friendly's One-IoT™ DMP 
+        Product Information</td>
       <td>
-        <p>Friendly's One-IoT™ Management Platform enables remote management of any type of IoT device, including constrained devices via standard protocols, such as: LWM2M, OMA-DM, MQTT,TR-069 and other proprietary protocols.</p>
-      </td>
+        <p>Friendly's One-IoT™ Device Management Platform (DMP) enables secure remote management and data orchestration of any types of IoT edge devices, including: modems, routers, gateways, sensors, and resource constrained edge devices via open standards protocols, such as: LWM2M (V1.0, V1.1, V1.2, V1.2.1), OMA-DM, MQTT, MQTT-SN, TR-069, TR-369 USP, CoAP/S; UDP/TCP/S & HTTP/S endpoints and other proprietary or custom protocols, utilizing the Friendy's Smart-Layer™ technology.</p>
+         <p>Friendly's One-IoT™ DMP was first used in commercial LWM2M projects since early 2017, with arguably the world's first intgerated smart water meter trials on NB-IoT utilizing LWM2M as the meter onboarding and automated meter reading secure protocols. Thereafter, a Fortune 500 organization Tier 1 telco trusted Friendly's One-IoT™ DMP with arguably the world largest IoT deployments utilizing LWM2M protocols, which is estimated to expand to over 1 Billion NB-IoT devices under management. </p>
+ <p>Friendly's One-IoT™ DMP deployments include on-premise, private and/or public cloud in high-availibility, geo-redundancy and in many cases including DRP. Friendly One-IoT™ DMP is cloud agnostic, deployments include Microsoft Azure, Amazon AWS, Google GCP and many others. There are commercial models for dedicated instances, or Software-as-a-Service (SaaS), including Platform-as-a-Serivice (PaaS), including an unlimited Multi-Tenancy service. </p>
+<p>Friendly's One-IoT™ DMP includes a set of Integration layers, some of these are: Cloud Connectors (KAFKA, AMQPS, MQTT), Swagger RESTful APIs, REST Subscription Patterns, One-IoT™ Bridge (Device Twins), various other integration options to OSS/BSS/ERP/CRM, etc... </p>
+<p>Friendly's One-IoT™ DMP features a full set of Portals (Web GUIs) to execute entire device lifecycle management of enterprise fleets of IoT devices. </p>
+       </td>
+    </tr>
+    <tr>
+      <td>Friendly's LWM2M Client</td>
+      <td><a href="https://friendly-tech.com/products/lwm2m-client-iot/" target="_blank">https://friendly-tech.com/products/lwm2m-client-iot/</a></td>
+    </tr>
+    <tr>
+      <td>Friendly's LWM2M Client 
+        Product Information</td>
+      <td>
+        <p>Friendly’s OMA-LWM2M Client SDK embedded edition is a framework that implements the OMA LWM2M V1.0/V1.1 protocol (contact for V1.2 and V1.2.1).
+
+<n>The Client SDK is designed to manage low-profile and resource constrained Class 0 and Class 1 devices where small memory footprints and binaries size are of great importance.</n>
+
+<n>Friendly’s LwM2M client can be deployed over various IoT and cIoT topologies, including LTE CAT-M1, NB-IoT, and EC-GSM-IoT.</n>
+
+<n>Friendly Technologies provides a LWM2M Lab server for device lab testing and commercial deployments.</n>
+
+<p><n>Some of the LWM2M features included:</n>
+<n>NIDD and UDP/TCP support;</n>
+<n>Device bootstrap and registration;</n>
+<n>Support of standard data models;</n>
+<n>SDK for customization and additional development;</n>
+<n>Remote device configuration;</n>
+<n>Firmware upgrade;</n>
+<n>Software Service management;</n>
+<n>Device location tracking;</n>
+<n>Device monitoring; and<n>
+<n>Reset/reboot device.</n> </p>
+
+<n>Refer to URL link above for more information.</n> </p>
+       </td>
     </tr>
     <tr>
       <td>TestFest Results</td>
