@@ -42,6 +42,46 @@ Below you can read more about each company's product and how it's utilizing LwM2
     </tbody>
 </table>
 
+## Aetheros
+<table>
+  <thead>
+    <tr>
+      <td rowspan="2">
+        <img src="/aetheros-logo.png" />
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aetheros</td>
+      <td><a href="https://aetheros.com/" target="_blank">www.aetheros.com</a></td>
+    </tr>
+    <tr>
+      <td>Company Information:</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+      <p><a href= "https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Aetheros-Client-LwM2M-v1_0-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Aetheros v1.0 Client Results</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      <p><a href= "https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Aetheros-Client-LwM2M-v1_1-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Aetheros v1.1 Client Results</a></p></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><p><a href= "https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Aetheros-Server-LwM2M-v1_0-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Aetheros v1.0 Server Results</a></p></td>
+    </tr>
+<tr>
+      <td></td>
+      <td><p><a href= "https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Aetheros-Server-LwM2M-v1_1-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Aetheros v1.1 Server Results</a></p></td>
+    </tr>
+   </tbody>
+</table>
+
 ## AhnLab
 <table>
   <thead>
