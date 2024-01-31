@@ -7,7 +7,7 @@ category: Utility
 
 White Paper: **Unlocking Utilities Savings: LwM2M for Utilities Meter Management**
 
-<alert><p style="color:DodgerBlue;">Download the White Paper: <a href="http://104.237.129.77/docs/OpenMobileAlliance/utility-outreach/dev-ou/ce22b81/utility-lwm2m-sm/OMA-WP-LwM2M-Metering-Use-Case-20231001-A_full.pdf" target="_blank">Unlocking Utilities Savings: LwM2M for Utilities Meter Management</a></p></alert>
+<alert><p style="color:DodgerBlue;">Download the White Paper: <a href="https://md2html-tool.com/docs/OpenMobileAlliance/utility-outreach/main/b82f6bf/utility-lwm2m-sm/OMA-WP-LwM2M-Metering-Use-Case-20231001-A_full.pdf" target="_blank">Unlocking Utilities Savings: LwM2M for Utilities Meter Management</a></p></alert>
 
 
 ## Introduction

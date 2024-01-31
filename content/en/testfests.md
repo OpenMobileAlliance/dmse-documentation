@@ -27,10 +27,11 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
     <tbody>
         <tr>
             <td>SVE-40</td>
-            <td><a href="https://21247113.hs-sites.com/unlocking-utility-benefits-with-lwm2m-2" target="_blank">Register</a></td>
+            <td><a href="" target="_blank">Closed</a></td>
             <td>Virtual</td>
             <td>Nov 2023</td>
-            <td><a href="" target="_blank"></a> </br> <a href="" target="_blank"></a></td>
+             <td><a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_0.pdf" target="_blank"> v1.0</a></br> 
+             <a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_1.pdf" target="_blank"> v1.1</a></br><a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_2.pdf" target="_blank"> v1.2</a></td>
             <td><a href="/listing" target="_blank"><img src="/page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
