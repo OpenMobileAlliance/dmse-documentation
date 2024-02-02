@@ -27,7 +27,7 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
     <tbody>
         <tr>
             <td>SVE-40</td>
-            <td><a href="" target="_blank">Closed</a></td>
+            <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Virtual</td>
             <td>Nov 2023</td>
              <td><a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_0.pdf" target="_blank"> v1.0</a></br> 
