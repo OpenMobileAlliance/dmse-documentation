@@ -42,6 +42,56 @@ Below you can read more about each company's product and how it's utilizing LwM2
     </tbody>
 </table>
 
+## Aetheros
+<table>
+  <thead>
+    <tr>
+      <td rowspan="2"><img width="120px" src="/aetheros-logo.png" /></td>
+      <td></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aetheros</td>
+      <td><p><a href="https://aetheros.com/" target="_blank">www.aetheros.com</a></p></td>
+    </tr>
+    <tr>
+      <td>Company Information:</td>
+      <td><p>For more information, visit <a href="https://aetheros.com/" target="_blank">www.aetheros.com</a></p></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+       <td><p>Smart Metering Software</p>
+           <p>The Aether Operating System (AOS)</p>
+           <p>Edge Hardware</p></td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+        <a href= "https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Aetheros-Client-LwM2M-v1_0-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Aetheros v1.0 Client Results</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      <a href= "https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Aetheros-Client-LwM2M-v1_1-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Aetheros v1.1 Client Results</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href= "https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Aetheros-Server-LwM2M-v1_0-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Aetheros v1.0 Server Results</a>
+      </td>
+    </tr>
+<tr>
+      <td></td>
+      <td>
+        <a href= "https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Aetheros-Server-LwM2M-v1_1-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Aetheros v1.1 Server Results</a>
+      </td>
+    </tr>
+   </tbody>
+</table>
+
 ## AhnLab
 <table>
   <thead>
@@ -240,6 +290,37 @@ Below you can read more about each company's product and how it's utilizing LwM2
         <p>Awa LightweightM2M is an implementation of the OMA Lightweight M2M protocol that provides a secure and standards compliant device management solution to simplify the development of M2M applications by providing an intuitive API that enables customization without the need for an intimate knowledge of M2M protocols.</a></p>
       </td>
     </tr>
+</table>
+ 
+## Bulk Tainer Telematics
+<table>
+  <thead>
+    <tr>
+      <td rowspan="2"><img width="150px" src="/BTTM-logo.png" /></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bulk Tainer Telematics</td>
+      <td><a href="https://bulktainertelematics.com/" target="_blank">www.bulktainertelematics.com</a></td>
+    </tr>
+    <tr>
+    <tr>
+      <td>Company Information:</td>
+      <td><p>For more information, visit <a href="https://bulktainertelematics.com/" target="_blank">www.bulktainertelematics.com</a></p></td>
+    </tr>
+    <tr>
+      <td> More Product Information</td>
+      <td>
+        <p>Advanced telematics for the tank container industry</p>       
+      </td>
+    </tr>
+      <td>TestFest Results</td>
+      <td>
+            <p><a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Bulk-Tainer-Telematics-Client-LwM2M-v1_1-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Bulk Tainer Telematics v1.1 Client Results</a></p>
+      </td>
+    </tr>
+    </tbody>
 </table>
 
 ## Centero 
