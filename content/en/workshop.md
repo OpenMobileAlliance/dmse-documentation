@@ -27,9 +27,10 @@ category: Workshops
         <td><a href="https://21247113.hs-sites.com/iot-for-utilities-workshop-1" target="_blank">Download Presentation | Video</td>
     </tr>
     <tr>
-        <td><strong>Revolutionizing Utility with LwM2M Ecosystem</strong></br><em>South East Water Showcases the Advantages of Its LwM2M Experience</em></td> 
-        <td>8 Feb 24 | 6:00 PM Melbourne, 8:00 AM Paris | Feb 7, 11 PM Seatle </td> 
-        <td><a href="https://21247113.hs-sites.com/revolutionizing-utilities-with-lwm2m-ecosystem-workshop" target="_blank">Registration</td>
+        <td><strong>Revolutionizing Utility with LwM2M Ecosystem</strong></td> 
+        <td>8 Feb 24 | 6:00 PM Melbourne, 8:00 AM CET | Feb 7, 11 PM PDT </td> 
+        <td><a href="https://app.hubspot.com/content-detail/21247113/landing-page/156126330626/performance" target="_blank">Download Presentation | Video</td>
     </tr>
+    
 </tbody>
 </table>
