@@ -6,7 +6,7 @@ category: Utility
 ---
 ## Q&A on Utilities & LwM2M
 
-<alert><p style="color:DodgerBlue;">Download the these Q&As: <a href="/docs/OMA-QA-Utilities-And-LwM2M.pdf" target="_blank" rel="noopener noreferrer">Utilities and LwM2M Frequent Asked Questions (FAQs)</a></p></alert>
+<alert><p style="color:DodgerBlue;">Download the these Q&As: <a href="https://www.openmobilealliance.org/documents/whitepapers/OMA-WP-LwM2M-for-Utilities/OMA-QA-Utilities-And-LwM2M-20231120-D.pdf" target="_blank" rel="noopener noreferrer">Utilities and LwM2M Frequent Asked Questions (FAQs)</a></p></alert>
 
 Welcome to our Frequently Asked Questions (FAQs) on Utilities and LwM2M. In this informative Q&A series, we address key inquiries regarding LightweightM2M (LwM2M) and its vital role in utility management. LwM2M is a versatile protocol designed to streamline device management in the IoT and utility sectors, offering a range of benefits, from enhancing security to reducing operating costs. These FAQs provide insights into how LwM2M addresses utility pain points, its contribution to cost reduction, its role in shaping the future of utility management, and much more. Whether you're a utility professional seeking solutions or simply interested in understanding the impact of LwM2M in the field, our FAQs aim to provide comprehensive answers to your queries.
 
