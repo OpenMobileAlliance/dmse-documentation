@@ -391,7 +391,7 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
        <td></td>
        <td>
-        <a href="https://www.openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Cumulocity-Server-LwM2M-v1_1-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Cumulocity v1.0 Server Results</a>
+        <a href="https://www.openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Cumulocity-Server-LwM2M-v1_1-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Cumulocity v1.1 Server Results</a>
       </td>
     </tr>
     <tr>
