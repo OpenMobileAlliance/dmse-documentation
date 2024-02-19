@@ -384,8 +384,20 @@ Below you can read more about each company's product and how it's utilizing LwM2
     </tr>
     <tr>
       <td>TestFest Results</td>
+        <td>
+        <a href="https://www.openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Cumulocity-Server-LwM2M-v1_0-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Cumulocity v1.0 Server Results</a>
+      </td>
+    </tr>
+    <tr>
+       <td></td>
+       <td>
+        <a href="https://www.openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Cumulocity-Server-LwM2M-v1_1-Test-Results.pdf" target="_blank">SVE-40 - Nov 2023 - Cumulocity v1.1 Server Results</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
       <td>
-        <p><a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw_2017_Nov-Cumulocity-Server-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Cumulocity v1.0 Server Results</a></p>
+        <a href="https://www.openmobilealliance.org/test_events/TF-35/Warsaw_2017_Nov-Cumulocity-Server-Posted-Results.pdf" target="_blank">TF Warsaw, Poland - Oct/Nov 2017 - Cumulocity v1.0 Server Results</p>
       </td>
     </tr>
     </tbody>
