@@ -21,13 +21,13 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
     padding-right: 4em;
     text-align: center;
   }
-  </style>
+</style>
 <div>
   <div class="row">
     <div class="first-column">
     <img src="https://user-images.githubusercontent.com/3258579/167474533-200c65d8-fe65-4bad-94b6-72a5f7549278.png" />
   </div>
-  <divclass="second-column">
+  <div class="second-column">
     <img src="/oma-old-logo.jpeg" width="90%"/>
   </div>
 </div>
