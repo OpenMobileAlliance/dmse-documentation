@@ -16,7 +16,6 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
     width: 85%;
   }
   .second-column {
-    width: 15%;
     padding-left: 4em;
     padding-right: 4em;
     text-align: center;
