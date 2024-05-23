@@ -7,7 +7,30 @@ category: 'LWM2M'
 OMA celebrates TestFest events with the aim to verify the consistency of OMA Technical Specifications. 
 Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.org/testfests/).
 
-![image](https://user-images.githubusercontent.com/3258579/167474533-200c65d8-fe65-4bad-94b6-72a5f7549278.png)
+<style>
+  .row {
+    display: flex;
+    padding-top: 10px;
+  }
+  .first-column {
+    width: 85%;
+  }
+  .second-column {
+    width: 15%;
+    padding-left: 4em;
+    padding-right: 4em;
+    text-align: center;
+  }
+</style>
+<div>
+  <div class="row">
+    <div class="first-column">
+    <img src="https://user-images.githubusercontent.com/3258579/167474533-200c65d8-fe65-4bad-94b6-72a5f7549278.png" />
+  </div>
+  <div class="second-column">
+    <img src="/oma-old-logo.jpeg" width="90%"/>
+  </div>
+</div>
 
 ## LwM2M TestFest Events 
 > Note: Please see <a href="https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers/issues" target="_blank">GitHub Issues</a> for any problems reported at the TestFest Events listed below.
