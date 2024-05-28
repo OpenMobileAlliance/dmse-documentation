@@ -481,8 +481,14 @@ td {
   </tbody>
 </table>
 
-
+**Elements in the Common.xml**
 <table>
+  <colgroup>
+    <col style="width: 6%">
+    <col style="width: 14%">
+    <col style="width: 15%">
+    <col style="width: 65%">
+  </colgroup>
   <thead>
     <tr>
       <th>Fault ID</th>
@@ -493,39 +499,161 @@ td {
   </thead>
   <tbody>
     <tr>
-      <td>200</td>
+      <td>500</td>
       <td>Maintainer</td>
-      <td>ObjectID</td>
-      <td>Version is the same between two objects with the same Object ID</td>
+      <td rowspan="2"><strong>ObjectID</strong></td>
+      <td>The <strong>ID</strong> is already used in another registration, it must be unique</td>
     </tr>
     <tr>
-      <td>201</td>
+      <td>501</td>
       <td>Maintainer</td>
-      <td></td>
-      <td>Name is different for a different version of the same Object ID</td>
+      <td>The <strong>ID</strong> is not in the range of (2048 - 26240)</td>
     </tr>
     <tr>
-      <td>202</td>
+      <td>510</td>
       <td>Maintainer</td>
-      <td></td>
-      <td>The description is different for a different version of the same Object ID</td>
+      <td><strong>Name</strong></td>
+      <td>Is not allowed to be empty</td>
     </tr>
     <tr>
-      <td>210</td>
-      <td>Maintainer</td>
-      <td>URN</td>
-      <td>
-        The URN or ObjectID not correct according to the Technical Specification<br>
-        The URN or Source category is not correct according to the Technical Specification<br>
-        The URN or Ver is not correct according to the Technical Specification<br>
-        The ID is not in the range allowed by Source
+      <td>520</td>
+      <td>Submitter</td>
+      <td><strong>Operations</strong></td>
+      <td>Invalid Operations according to the Technical Specification, ,<strong>TS</strong></td>
+    </tr>
+    <tr>
+      <td>530</td>
+      <td>Submitter</td>
+      <td rowspan="2"><strong>Type</strong></td>
+      <td>Invalid Type according to the Technical Specification, TS</td>
+    </tr>
+    <tr>
+      <td>531</td>
+      <td>Submitter</td>
+      <td>Invalid Type for an resource with Operation = ",<strong>E</strong>" (Executable)</td>
+    </tr>
+    <tr>
+      <td>540</td>
+      <td>n/a</td>
+      <td rowspan="2"><strong>Range Enumeration</strong></td>
+      <td>N/A, No validation done</td>
+    </tr>
+    <tr>
+      <td>541</td>
+      <td>Submitter</td>
+      <td>In the description of a range it is not possible to use "-" or "to" instead it should be used ".."
+        <ul>
+          <li>Correct Example: "0..23"</li>
+          <li>Incorrect: "0 to 23"</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td>220</td>
-      <td>Maintainer</td>
-      <td>Name</td>
+      <td>551</td>
+      <td>Submitter</td>
+      <td><strong>Units</strong></td>
+      <td>Invalid Unit according to <strong>SenML</strong></td>
+    </tr>
+    <tr>
+      <td>570</td>
+      <td>Submitter	</td>
+      <td rowspan="2"><strong>Description</strong></td>
       <td>Is not allowed to be empty</td>
+    </tr>
+    <tr style="color:#c0c0c0;">
+      <td>571</td>
+      <td>Maintainer</td>
+      <td>VOID. Description is not CDATA encoded</td>
+    </tr>
+    <tr>
+      <td>580</td>
+      <td>Maintainer</td>
+      <td rowspan="2"><strong>TS</strong></td>
+      <td>Technical Specification (TS), must be either Empty or a valid link that does not return HTTP 404 (Not Found)</td>
+    </tr>
+    <tr>
+      <td>581</td>
+      <td>Maintainer</td>
+      <td>The MIME Type of the response must not be "html" to avoid web page with HTTP 404</td>
+    </tr>
+    <tr>
+      <td>590</td>
+      <td>Maintainer</td>
+      <td rowspan="2"><strong>TSLink</strong></td>
+      <td>Is not allowed to be empty</td>
+    </tr>
+    <tr>
+      <td>591</td>
+      <td>Maintainer</td>
+      <td>Must be either "0" or "1" without quotes</td>
+    </tr>
+    <tr>
+      <td>601</td>
+      <td>Submitter		</td>
+      <td><strong>Name</strong></td>
+      <td>Invalid XML characters in <strong>Name</strong>, e.g. "smart quotes"</td>
+    </tr>
+    <tr>
+      <td>602</td>
+      <td>Submitter</td>
+      <td><strong>Description</strong></td>
+      <td>Invalid XML characters in <strong>Description</strong>, e.g. "smart quotes"</td>
+    </tr>
+    <tr>
+      <td>603</td>
+      <td>Submitter</td>
+      <td><strong>TS Link</strong></td>
+      <td>Invalid XML characters in <strong>TS Link</strong></td>
+    </tr>
+    <tr>
+      <td>604</td>
+      <td>Submitter</td>
+      <td><strong>Operations</strong></td>
+      <td>Invalid XML characters in <strong>Operations</strong> according to the Microsoft XML parser in addition "smart quotes" will generate this error.</td>
+    </tr>
+    <tr>
+      <td>605</td>
+      <td>Submitter</td>
+      <td><strong>TS</strong></td>
+      <td>Invalid XML characters in Technical Specification (<strong>TS</strong>), e.g. "smart quotes"</td>
+    </tr> 
+  </tbody>
+</table>
+
+**Elements inside of the Object**
+<table>
+  <colgroup>
+    <col style="width: 6%">
+    <col style="width: 14%">
+    <col style="width: 15%">
+    <col style="width: 65%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Fault ID</th>
+      <th>Resolve By</th>
+      <th>Elements</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>800</td>
+      <td>Submitter</td>
+      <td><strong>LwM2MVersion</strong>  or <strong>ObjectVersion</strong></td>
+      <td>One or both of these elements (LwM2MVersion, ObjectVersion) are missing from the Object.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
