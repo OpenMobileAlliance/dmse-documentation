@@ -52,7 +52,11 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td><a href="https://lwm2m.openmobilealliance.org/testfests/" target="_blank">OMA</a></td>
             <td>Raleigh</td>
             <td>June 2024</td>
-            <td><a href="" target="_blank"></a> </br> <a href="" target="_blank"></a></td>
+            <td>
+            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/OMA-SVE-41-Raleigh%20USA-10-13%20June%202024_Event-Conglomerated-Test_Results-LwM2M%20v1_0.pdf" target="_blank"> v1.0</a></br>
+            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/OMA-SVE-41-Raleigh%20USA-10-13%20June%202024_Event-Conglomerated-Test_Results-LwM2M%20v1_1.pdf" target="_blank"> v1.1</a></br>
+            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/OMA-SVE-41-Raleigh%20USA-10-13%20June%202024_Event-Conglomerated-Test_Results-LwM2M%20v1_2.pdf" target="_blank"> v1.2</a> 
+            </td>
             <td><a href="/listing" target="_blank"><img src="/page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
@@ -61,7 +65,9 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td>Virtual</td>
             <td>Nov 2023</td>
              <td><a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_0.pdf" target="_blank"> v1.0</a></br> 
-             <a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_1.pdf" target="_blank"> v1.1</a></br><a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_2.pdf" target="_blank"> v1.2</a></td>
+             <a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_1.pdf" target="_blank"> v1.1</a></br>
+             <a href="https://openmobilealliance.org/test_events/VSVE-40/SVE-40_15-21-Nov-2023_Event-Conglomerated-Test-Results-LwM2M-v1_2.pdf" target="_blank"> v1.2</a>
+             </td>
             <td><a href="/listing" target="_blank"><img src="/page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
         <tr>
