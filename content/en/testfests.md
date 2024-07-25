@@ -54,8 +54,8 @@ Learn more about OMA TestFest events [_here_](https://lwm2m.openmobilealliance.o
             <td>June 2024</td>
             <td>
             <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/OMA-SVE-41-Raleigh%20USA-10-13%20June%202024_Event-Conglomerated-Test_Results-LwM2M%20v1_0.pdf" target="_blank"> v1.0</a></br>
-            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/OMA-SVE-41-Raleigh%20USA-10-13%20June%202024_Event-Conglomerated-Test_Results-LwM2M%20v1_1.pdf" target="_blank"> v1.1</a></br>
-            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/OMA-SVE-41-Raleigh%20USA-10-13%20June%202024_Event-Conglomerated-Test_Results-LwM2M%20v1_2.pdf" target="_blank"> v1.2</a> 
+            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_Event%20Conglomerated-Test_Results-LwM2M%20v1_1.pdf" target="_blank"> v1.1</a></br>
+            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_Event%20Conglomerated-Test_Results-LwM2M%20v1_2.pdf" target="_blank"> v1.2</a> 
             </td>
             <td><a href="/listing" target="_blank"><img src="/page.png"  alt="Product Listing Webpage"></a></td>
         </tr>
