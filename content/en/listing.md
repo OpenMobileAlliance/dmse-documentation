@@ -252,9 +252,12 @@ Below you can read more about each company's product and how it's utilizing LwM2
         </td>
     </tr>
     <tr>
-        <td rowspan='2'>TestFest Results</td>
+      <td rowspan='2'>TestFest Results</td>
         <td>
-            <p><a href="https://www.openmobilealliance.org/test_events/VTF-39/AVSystem.consolidated.Client.Results.pdf" target="_blank">Virtual TestFest - Mar 2021 - AVSystem v1.1 Client Results</a><p>
+           <p><a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/LwM2M%20v1.0/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_AvSystem-Client-Test_Results-LwM2M%20v1_0.pdf" target="_blank">TF Raleigh, NC-USA - June 2024 - AVSystem v1.0 Client Results</a><p>
+           <p><a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/LwM2M%20v1.1/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_AVSystem-Client-Test_Results-LwM2M%20v1_1.pdf" target="_blank">TF Raleigh, NC-USA - June 2024 - AVSystem v1.1 Client Results</a><p>
+          <p><a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/LwM2M%20v1.2/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_AvSystem_Client-Test_Results-LwM2M%20v1_2.pdf" target="_blank">TF Raleigh, NC-USA - June 2024 - AVSystem v1.2 Client Results</a><p>
+          <p><a href="https://www.openmobilealliance.org/test_events/VTF-39/AVSystem.consolidated.Client.Results.pdf" target="_blank">Virtual TestFest - Mar 2021 - AVSystem v1.1 Client Results</a><p>
             <p><a href="https://www.openmobilealliance.org/test_events/VTF-39/AVSystem.consolidated.Server.Results.pdf" target="_blank">Virtual TestFest - Mar 2021 - AVSystem v1.1 Server Results</a><p>
             <p><a href="https://www.openmobilealliance.org/test_events/VTF-38/AVSystem_1.1_Client.pdf" target="_blank">Virtual TestFest - Apr 2020 - AVSystem - v1.1 Client Results</a></p>
             <a href="https://www.openmobilealliance.org/test_events/TF-37/AVSystem.-.1.0.Server.Results.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - AVSystem v1.0 Server Results<a></p>
@@ -693,6 +696,9 @@ Below you can read more about each company's product and how it's utilizing LwM2
     <tr>
       <td>TestFest Results</td>
       <td>
+        <p><a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/LwM2M%20v1.0/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_IoTerop-Server-Test_Results-LwM2M%20v1_0.pdf" target="_blank">TF Raleigh, NC-USA - June 2024 - IoTerop v1.0 Server Results</a><p>
+        <p><a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/LwM2M%20v1.1/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_IoTerop-Server-Test_Results-LwM2M%20v1_1.pdf" target="_blank">TF Raleigh, NC-USA - June 2024 - IoTerop v1.1 Server Results</a><p>
+        <p><a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/LwM2M%20v1.2/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_IoTerop_Server_Test_Results-LwM2M%20v1_2.pdf" target="_blank">TF Raleigh, NC-USA - June 2024 - IoTerop v1.2 Server Results</a><p>
         <p><a href="https://www.openmobilealliance.org/test_events/VTF-38/IoTerop_1.1_Client_Results.pdf" target="_blank">Virtual TF - Apr 2020 - IoTerop v1.1 Client Results</a></p> 
         <p><a href="https://www.openmobilealliance.org/test_events/VTF-38/IoTerop_1.1_Server_Results.pdf" target="_blank">Virtual TF - Apr 2020 - IoTerop v1.1 Server Results</a></p>
         <p><a href="https://www.openmobilealliance.org/test_events/TF-37/IoTerop.v1.1.Client.pdf" target="_blank">TF Seoul, Korea - Oct 2019 - IOTEROP v1.1 Client Results</a></p>
