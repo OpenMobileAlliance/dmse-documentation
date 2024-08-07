@@ -903,6 +903,39 @@ Below you can read more about each company's product and how it's utilizing LwM2
   </tbody>
 </table>
 
+## 6D Technologies
+<table>
+  <thead>
+    <tr>
+      <td rowspan="2"><img width="120px" src="https://github.com/user-attachments/assets/0511ed8e-7445-4762-a773-5df3e88c0260"></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6D Technologies</td>
+      <td><a href="https://www.6dtechnologies.com/" target="_blank">www.6dtechnologies.com</a></td>
+    </tr>
+    <tr>
+      <td>QuickLink IoT Services Platform</td>
+      <td><a href="https://www.6dtechnologies.com/" target="_blank">www.6dtechnologies.com</a></td>
+    </tr>
+    <tr>
+      <td>More Product Information:</td>
+      <td>
+        <p>6D Technologies is a technology-driven organization committed to providing exceptional solutions to Communication Service Providers (CSPs) and enterprises. With a focus on utilizing future-ready technologies, the company aims to deliver forward-thinking digital solutions to its clients.</p>
+        <p>6D Technologies follows the vision of delivering smart ideas for a transformational experience with the advantage of future-driven technologies like IoT, AI/ML, Big Data Analytics, 5G, Cloudification, and more. It helps clients scale up their business by focusing on the interplay of its Digital 360 initiative that caters to monetization through automation.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>TestFest Results</td>
+      <td>
+            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/LwM2M%20v1.1/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_6D%20Technologies-Server-Test_Results-LwM2M%20v1_1.pdf" target="_blank">TF Raleigh, NC-USA - June 2024 - 6D Tecnologies v1.1 Server Results</a></p>
+            <a href="https://openmobilealliance.org/test_events/SVE-41/Test%20Results/LwM2M%20v1.2/OMA-SVE-41%20(Raleigh,USA),%2010-13%20June%202024_6D%20Technologies-Server-Test_Results-LwM2M%20v1_2.pdf" target="_blank">TF Raleigh, NC-USA - June 2024 - 6D Tecnologies v1.2 Server Results</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Smith Micro
 <table>
   <thead>
