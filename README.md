@@ -1,5 +1,8 @@
 # dmse-documentation
 
+**ALERT: This repository is archived and will not receive further updates. For any updates or forks, please refer to [https://github.com/OpenMobileAlliance/oma-knowledge-base].**
+
+
 ## Setup
 
 Install dependencies:
